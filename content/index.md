@@ -1,9 +1,13 @@
 ---
-title: Template for Knowledge Base Docs Websites
+title: My Journey with PCOS
 ---
-## The index page
+## Main Categories
 
-This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
+-[[living-with-pcos/index|Living with PCOS]]
+-[[my-symptoms/index|My Symptoms]]
+-[[medical-treatment/index|Medical Treatment]]
+-[[holistic-treatment/index|Holistic Treatment]]
+-[[diet-and-exercise/index|Diet and Exercise]]
 
 ## Editing pages
 
