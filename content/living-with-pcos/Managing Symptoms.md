@@ -15,4 +15,7 @@ Obesity is a widespread health concern that affects millions of individuals worl
 
 > Engaging in regular physical activity plays a crucial role in managing body weight by burning calories and increasing metabolism, which can significantly contribute to weight loss.
 
-#####
+##### Tips to reduce weight gain
+- Be minful of your food intake
+- Be active
+- Get good sleep
