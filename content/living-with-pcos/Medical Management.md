@@ -3,6 +3,7 @@
 In addition to traditional birth control methods, certain medications used in the management of diabetes, such as metformin, have been found to be effective in addressing insulin resistance. Metformin works by improving the body's sensitivity to insulin, which can lead to lower insulin levels and a reduction in circulating androgen levels. This is particularly beneficial for individuals experiencing hormonal imbalances, as high androgen levels can contribute to various health issues, including polycystic ovary syndrome (PCOS). By targeting both insulin resistance and androgen production, metformin can play a crucial role in improving overall hormonal balance and [[Managing Symptoms]].
 
 ![PCOS Medictions](image-3.png)
+*The medication you need depends on your symptoms and what you require. It's essential to talk to a healthcare professional to find the best treatment for you.*
 
 ### Infertility Treatment
 

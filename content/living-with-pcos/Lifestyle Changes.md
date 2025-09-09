@@ -7,7 +7,7 @@ Additionally, be mindful of your consumption of processed snacks and sugary beve
 When it comes to protein sources, try to limit your intake of red meat, as excessive consumption has been linked to various health issues. Instead, explore alternatives like lean poultry, fish, legumes, and plant-based proteins. By focusing on these wholesome food choices and minimizing processed and unhealthy options, you'll be taking significant steps toward a balanced and nutritious diet.
 
 ![PCOS Tips](image.png)
-*Figure 1: Eating vegetables and fruits is very important. They are full of nutrients like antioxidants, vitamins, minerals, and fiber. These foods help you stay full longer and maintain a healthy weight.*
+*Eating vegetables and fruits is very important. They are full of nutrients like antioxidants, vitamins, minerals, and fiber. These foods help you stay full longer and maintain a healthy weight.*
 
 > Be mindful of your consumption of processed snacks and sugary beverages, as these often contain high levels of added sugars, unhealthy fats, and preservatives that can negatively impact your health over time.
 
@@ -19,7 +19,7 @@ Engaging in regular physical activity plays a crucial role in managing body weig
 
 Getting enough quality sleep is essential for maintaining overall health and well-being. For individuals with Polycystic Ovary Syndrome (PCOS), adequate sleep plays a crucial role in managing symptoms such as weight gain, insulin resistance, and hormonal imbalances. Research indicates that poor sleep can exacerbate these symptoms, leading to increased stress levels, irregular menstrual cycles, and difficulty in managing weight. Prioritizing a consistent sleep schedule and practicing good sleep hygiene can significantly improve sleep quality, which in turn may help alleviate some of the challenges associated with PCOS. Fostering a restful environment and establishing a relaxing bedtime routine can further enhance the benefits of restorative sleep.
 
-##### For better Sleep
+##### Tips for better Sleep
  - Exercise
  - Eat a balanced diet
  - Make sleep a priority
