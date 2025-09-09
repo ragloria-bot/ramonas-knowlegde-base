@@ -16,3 +16,9 @@ Engaging in regular physical activity plays a crucial role in managing body weig
 
 Getting enough quality sleep is essential for maintaining overall health and well-being. For individuals with Polycystic Ovary Syndrome (PCOS), adequate sleep plays a crucial role in managing symptoms such as weight gain, insulin resistance, and hormonal imbalances. Research indicates that poor sleep can exacerbate these symptoms, leading to increased stress levels, irregular menstrual cycles, and difficulty in managing weight. Prioritizing a consistent sleep schedule and practicing good sleep hygiene can significantly improve sleep quality, which in turn may help alleviate some of the challenges associated with PCOS. Fostering a restful environment and establishing a relaxing bedtime routine can further enhance the benefits of restorative sleep.
 
+##### For better Sleep
+ - Exercise
+ - Eat a balanced diet
+ - Make sleep a priority
+ 
+
