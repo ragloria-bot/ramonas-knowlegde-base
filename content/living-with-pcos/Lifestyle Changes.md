@@ -9,3 +9,4 @@ Physical activity helps with weight loss, improves insulin sensitivity, and can 
 #### Prioritize Sleep
 
 Adequate sleep is important for overall health and can help manage PCOS symptoms.
+
