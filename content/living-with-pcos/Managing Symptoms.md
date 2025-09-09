@@ -7,6 +7,7 @@ Women with polycystic ovary syndrome (PCOS) often face challenges such as infreq
 Acne and oily skin are prevalent issues faced by many individuals, often resulting from a combination of hormonal changes, genetics, and environmental factors. Treatment options can vary widely, including prescription medications like topical retinoids, ant antibiotics, or hormonal therapies, which target the underlying causes of acne. Additionally, adopting a consistent skincare routine can significantly improve skin health; this may include using gentle cleansers, oil-free moisturizers, and exfoliating products to help unclog pores. It’s important for those affected to consult with a dermatologist to determine the most effective treatment plan tailored to their specific skin type and needs.
 
 ![PCOS Acne](image-2.png)
+*Figure 1: For women diagnosed with polycystic ovarian syndrome (PCOS), a range of physical symptoms can manifest, reflecting the hormonal imbalances often associated with this condition. These may include persistent acne that can affect various areas of the face and body, thinning hair or hair loss from the scalp, and an increase in unwanted facial or body hair, known as hirsutism. Additionally, individuals may notice the emergence of dark patches on the skin, particularly in areas such as the neck, underarms, or inner thighs. The presence of any combination of these symptoms can significantly impact a woman's self-esteem and overall quality of life.*
 
 ####  Weight Gain
 
