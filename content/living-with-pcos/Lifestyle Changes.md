@@ -7,6 +7,7 @@ Additionally, be mindful of your consumption of processed snacks and sugary beve
 When it comes to protein sources, try to limit your intake of red meat, as excessive consumption has been linked to various health issues. Instead, explore alternatives like lean poultry, fish, legumes, and plant-based proteins. By focusing on these wholesome food choices and minimizing processed and unhealthy options, you'll be taking significant steps toward a balanced and nutritious diet.
 
 ![PCOS Tips](image.png)
+Eating vegetables and fruits is very important. They are full of nutrients like antioxidants, vitamins, minerals, and fiber. These foods help you stay full longer and maintain a healthy weight.
 
 ### Regular Exercise
 
@@ -20,5 +21,5 @@ Getting enough quality sleep is essential for maintaining overall health and wel
  - Exercise
  - Eat a balanced diet
  - Make sleep a priority
- 
+
 
