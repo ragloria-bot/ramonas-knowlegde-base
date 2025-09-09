@@ -9,6 +9,8 @@ When it comes to protein sources, try to limit your intake of red meat, as exces
 ![PCOS Tips](image.png)
 Eating vegetables and fruits is very important. They are full of nutrients like antioxidants, vitamins, minerals, and fiber. These foods help you stay full longer and maintain a healthy weight.
 
+> Be mindful of your consumption of processed snacks and sugary beverages, as these often contain high levels of added sugars, unhealthy fats, and preservatives that can negatively impact your health over time.
+
 ### Regular Exercise
 
 Engaging in regular physical activity plays a crucial role in managing body weight by burning calories and increasing metabolism, which can significantly contribute to weight loss. Additionally, it enhances insulin sensitivity, allowing the body to more effectively use insulin to regulate blood sugar levels. This is particularly important in reducing the risk of developing type 2 diabetes and managing existing diabetes. Furthermore, consistent exercise strengthens the cardiovascular system, improves overall fitness, and lowers the risk of complications associated with obesity and metabolic disorders. Ultimately, incorporating physical activity into daily routines not only promotes a healthier weight and blood sugar levels but also fosters long-term well-being and quality of life.
