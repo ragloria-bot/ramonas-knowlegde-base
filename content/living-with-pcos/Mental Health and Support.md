@@ -11,7 +11,7 @@ Polycystic Ovary Syndrome (PCOS) is a complex hormonal disorder that can trigger
 
 ### Seeking Support
 
-Participating in peer support groups can provide invaluable emotional and practical assistance, as these communities often share lived experiences and coping strategies. Collaborating closely with healthcare teams ensures that you receive comprehensive care tailored to your specific needs. Additionally, maintaining open lines of communication with your doctor is crucial; regular check-ins can help track your progress, address new concerns, and adjust treatment plans as necessary. Together, these approaches can significantly alleviate both the daily challenges and the long-term burden associated with managing your condition.
+Participating in peer support groups can provide invaluable emotional and practical assistance, as these communities often share lived experiences and coping strategies. Collaborating closely with healthcare teams ensures that you receive comprehensive care tailored to your specific needs and [[Medical Management]]. Additionally, maintaining open lines of communication with your doctor is crucial; regular check-ins can help track your progress, address new concerns, and adjust treatment plans as necessary. Together, these approaches can significantly alleviate both the daily challenges and the long-term burden associated with managing your condition.
 
 ##### Tips for easing stress
 - Go for a walk
