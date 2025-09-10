@@ -9,7 +9,9 @@ When it comes to protein sources, try to limit your intake of red meat, as exces
 ![PCOS Tips](image.png)
 *Eating vegetables and fruits is very important. They are full of nutrients like antioxidants, vitamins, minerals, and fiber. These foods help you stay full longer and maintain a healthy weight.*
 
+
 > Be mindful of your consumption of processed snacks and sugary beverages, as these often contain high levels of added sugars, unhealthy fats, and preservatives that can negatively impact your health over time.
+
 
 ### Regular Exercise
 
