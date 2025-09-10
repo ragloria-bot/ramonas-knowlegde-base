@@ -9,7 +9,9 @@ Women with polycystic ovary syndrome (PCOS) face an elevated risk of developing 
 
 Women with Polycystic Ovary Syndrome (PCOS) often experience emotional distress, depression, and anxiety as a result of the various physical and hormonal changes associated with the condition. These mental health challenges can significantly impact their quality of life, relationships, and overall well-being. It's essential for individuals facing these symptoms to have open and honest conversations with their healthcare provider. Together, they can explore effective treatment options, which may include therapy, lifestyle modifications, or medication, to help manage these emotional struggles [[Mental Health and Support]]. Addressing these concerns is crucial for holistic care and can lead to a better understanding of both the physical and emotional aspects of living with PCOS.
 
+
 > "You are allowed to be both a masterpiece and a work in progress simultaneously" — Sophia Bush. 
+
 
 ##### When to seek help when you are feeling:
 - More emotional than usual
