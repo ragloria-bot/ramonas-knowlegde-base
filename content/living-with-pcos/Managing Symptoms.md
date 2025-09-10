@@ -13,7 +13,9 @@ Acne and oily skin are prevalent issues faced by many individuals, often resulti
 
 Obesity is a widespread health concern that affects millions of individuals worldwide, leading to a range of serious medical conditions such as diabetes, heart disease, and joint problems. Ultimately with these medical conditions will result in [[Long-Term Health Risks]]. However, research has shown that even a modest weight loss—typically around 5-10% of one’s body weight—can lead to substantial improvements in overall health. This achievable goal can enhance metabolic function, reduce the risk of obesity-related complications, and improve the effectiveness of various treatments, such as medications for diabetes and hypertension. Incorporating a balanced diet and regular exercise into one’s lifestyle not only facilitates weight reduction but also promotes better physical and mental well-being. Therefore, addressing obesity through manageable lifestyle changes can have a significant impact on health outcomes and quality of life.
 
+
 > Engaging in regular physical activity plays a crucial role in managing body weight by burning calories and increasing metabolism, which can significantly contribute to weight loss.
+
 
 ##### Tips to reduce weight gain
 - Be minful of your food intake
