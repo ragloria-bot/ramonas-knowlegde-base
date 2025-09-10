@@ -2,7 +2,9 @@
 
 Polycystic Ovary Syndrome (PCOS) is a complex hormonal disorder that can trigger a range of physical and psychological changes in those affected. The physical symptoms, such as irregular menstrual cycles, weight gain, and acne, can contribute to emotional distress. Many individuals with PCOS experience heightened levels of anxiety and depression due to the challenges of managing their symptoms and the societal pressures surrounding body image and fertility. These feelings can be exacerbated by hormonal imbalances that impact mood and energy levels. As a result, self-esteem can take a significant hit, leading to a cycle of negative emotions and further mental health challenges. Understanding these interconnected factors is crucial for providing comprehensive support and care for those living with PCOS.
 
+
 > Incorporating a balanced diet and regular exercise into one’s lifestyle not only facilitates weight reduction but also promotes better physical and mental well-being. 
+
 
 ![PCOS Impact](image-4.png)
 *Polycystic ovary syndrome (PCOS) can lead to emotional problems like anxiety and depression. This happens because of physical symptoms such as weight gain, unwanted hair growth, and infertility. These symptoms can lower self-esteem and create a negative body image. Additionally, stress and hormonal changes can increase the risk of mental health issues.*
