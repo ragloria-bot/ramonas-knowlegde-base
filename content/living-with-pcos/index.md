@@ -1,5 +1,5 @@
 ---
-title: Living with PCOS
+title: My Life Now Living with PCOS
 ---
 
 ### Important Links 
