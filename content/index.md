@@ -8,6 +8,7 @@ title: My Journey with PCOS
 * [[medical-treatment/index|Medical Treatment]]
 * [[holistic-treatment/index|Holistic Treatment]]
 * [[diet-and-exercise/index|Diet and Exercise]]
+* [[my-life-now/index|My Life Now with PCOS]]
 
 ## Editing pages
 

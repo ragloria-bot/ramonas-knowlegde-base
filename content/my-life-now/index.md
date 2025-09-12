@@ -1,3 +1,3 @@
 ---
-title: My Journey with PCOS
+title: My Life Now with PCOS
 ---
