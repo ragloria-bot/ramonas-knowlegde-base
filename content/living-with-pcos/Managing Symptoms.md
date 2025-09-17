@@ -18,6 +18,9 @@ Obesity is a widespread health concern that affects millions of individuals worl
 
 
 ##### Tips to reduce weight gain
-- Be minful of your food intake
+- Be mindful of your food intake
 - Be active
 - Get good sleep
+
+
+![[assets/how-pcos-affects-the-body.png]]
