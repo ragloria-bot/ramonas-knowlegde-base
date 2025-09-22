@@ -10,37 +10,15 @@ title: My Journey with PCOS
 * [[diet-and-exercise/index|Diet and Exercise]]
 * [[my-life-now/index|My Life Now with PC]]
 
-## Editing pages
+## My PCOS Beginnings
 
-You can edit this index page by opening the `content/index.md` file (found in the `content/` folder) in a Markdown-specific app or any text editor. 
+My journey with PCOS began about six months after I gave birth to my daughter. I noticed a rapid weight gain that made me wonder if I might be pregnant again. After a wellness check-up and a pregnancy test, I was relieved to find out that I wasn't pregnant, but I was still confused about why my weight was increasing despite my commitment to diet and exercise.
 
-For many people, editing Markdown files with user-friendly interfaces, linking, themes, and 
+Over the next ten years, I saw numerous doctors, but each one simply advised me to monitor my eating and exercise more. This was incredibly frustrating because I was genuinely making an effort to improve my health but saw no results. In another attempt to seek answers, I met with a new OBGYN who conducted more blood tests. During my follow-up appointment with her, she ultimately diagnosed me with PCOS.
 
-### Obsidian (free)
+At the time, many healthcare providers were still learning about the condition and typically prescribed birth control and metformin. Although I took the medications, I still felt that something was not quite right. Despite my ongoing treatment, I struggled to regain my health. Years of countless doctor visits, blood tests, and ultrasounds provided me with no clear answers. 
 
-Using [Obsidian](https://obsidian.md/) is recommended for writing/editing/creating Markdown files and building your knowledge base. It's free, has a user-friendly Markdown editing interface, and supports a variety of customizations and plugins. Obsidian's default theme and settings are recommended for beginners.
-
-Link: [https://obsidian.md/](https://obsidian.md/)
-
-### Visual Studio Code (free)
-
-Visual Studio Code (vscode) is a popular free and open source code editor.
-
-Installing the [Markdown All in One](https://github.com/yzhang-gh/vscode-markdown) extension is highly recommended for vscode: it adds helpful Markdown features in addition to the built-in vscode Markdown support.
-
-Link: [https://code.visualstudio.com/](https://code.visualstudio.com/)
-
-### iA Writer (paid)
-
-iA Writer is a professional tool for writing documents using Markdown. It is a popular choice for serious writers wanting a distraction-free and high-quality writing and editing experience.
-
-Link: [https://ia.net/writer](https://ia.net/writer)
-
-### Text editors (free or paid)
-
-You can use any text editor capable of opening and editing Markdown files. 
+If you're one of the many women who struggle with PCOS and are seeking guidance on how to alleviate the numerous symptoms associated with it, you've come to the right place. I invite you to explore my website, where you will find a wealth of valuable information designed to empower and support you on your journey with PCOS (Polycystic Ovary Syndrome). From informative articles and my personal story to expert advice on managing symptoms and improving overall well-being, my goal is to provide you with the resources you need to navigate this condition with confidence. Join me in discovering practical tips, lifestyle changes, and community support that can truly transform your experience with PCOS.
 
 ---
-## Adding new pages
-
-You can add more pages to your website by adding more Markdown files to the `content/` folder. Take a look at [[Example doc 01]] to learn more.
+.
