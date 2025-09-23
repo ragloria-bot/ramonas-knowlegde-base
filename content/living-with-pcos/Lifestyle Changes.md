@@ -8,8 +8,8 @@ sources of fiber, helping to maintain digestive health and keep you feeling full
 
 Additionally, be mindful of your consumption of processed snacks and sugary beverages,  
 as these often contain high levels of added sugars, unhealthy fats, and preservatives  
-that can negatively impact your health over time. Instead, consider healthier snack options,  
-such as nuts, seeds, yogurt, or cut-up vegetables with hummus.
+that can negatively impact your health over time. Instead, consider healthier snack  
+options, such as nuts, seeds, yogurt, or cut-up vegetables with hummus.
 
 When it comes to protein sources, try to limit your intake of red meat, as excessive  
 consumption has been linked to various health issues. Instead, explore alternatives  
@@ -49,13 +49,14 @@ are important in managing PCOS.
 
 Getting enough quality sleep is essential for maintaining overall health and well-being.  
 For individuals with Polycystic Ovary Syndrome (PCOS), adequate sleep plays a crucial  
-role in managing symptoms such as weight gain, insulin resistance, and hormonal imbalances.  
-Research indicates that poor sleep can exacerbate these symptoms, leading to increased stress  
-levels, irregular menstrual cycles, and difficulty in managing weight. Prioritizing a  
-consistent sleep schedule and practicing good sleep hygiene can significantly improve  
-sleep quality, which in turn may help alleviate some of the challenges associated with  
-PCOS. Fostering a restful environment and establishing a relaxing bedtime routine can  
-further enhance the benefits of restorative sleep.
+role in managing symptoms such as weight gain, insulin resistance, and hormonal  
+imbalances. Research indicates that poor sleep can exacerbate these symptoms,  
+leading to increased stress levels, irregular menstrual cycles, and difficulty  
+in managing weight. Prioritizing a consistent sleep schedule and practicing good  
+sleep hygiene can significantly improve sleep quality, which in turn may help  
+alleviate some of the challenges associated with PCOS. Fostering a restful  
+environment and establishing a relaxing bedtime routine can further enhance  
+the benefits of restorative sleep.
 
 ##### Tips for better Sleep
 
