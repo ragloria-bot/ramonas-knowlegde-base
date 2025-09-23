@@ -6,7 +6,7 @@ tags:
 
 * [[Anti-Inflammatory Foods]]
 * [[Supplement Support]]
-
+* [[Stress and Sleep Management]]
 ## Things to Consider
 
 Certain herbs and dietary supplements have shown promise in alleviating symptoms of Polycystic Ovary Syndrome (PCOS), particularly in addressing issues related to insulin resistance and hormonal imbalances. For example, inositol is a carbohydrate often used to support ovarian health; it has been found to improve insulin sensitivity and restore regular menstrual cycles in women with PCOS. Similarly, spearmint tea is noted for its potential to reduce high levels of androgens, which are often elevated in PCOS, thus helping with symptoms like excess hair growth.
