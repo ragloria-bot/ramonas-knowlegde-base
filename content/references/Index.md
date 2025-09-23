@@ -25,3 +25,5 @@ Women’s Health of Central Virginia. (2024, November 19). _Support and lifestyl
 
 Catalyst, J. (2024, July 25). _PCOS and your diet - insulin resistance - San antonio obgyns_. Heights OBGYN. https://www.heightsobgyn.com/pcos-and-your-diet/
 
+Vergis, L. (2024, September 12). _PCOS and nutrition: Your path to hormonal balance | northside hospital_. PCOS and nutrition: Your path to hormonal balance. https://www.northside.com/about/news-center/article-details/pcos-and-nutrition-your-path-to-hormonal-balance
+
