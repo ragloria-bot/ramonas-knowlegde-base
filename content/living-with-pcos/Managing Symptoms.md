@@ -58,3 +58,4 @@ burning calories and increasing metabolism, which can significantly contribute t
 
 
 ![[assets/how-pcos-affects-the-body.png]]
+(Migala, 2022)

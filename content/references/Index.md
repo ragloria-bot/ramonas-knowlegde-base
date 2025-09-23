@@ -9,3 +9,5 @@ _Hormonal treatment for PCOS: Guide to oral contraceptives and progesterone ther
 Bernabe, M. (2025, May 4). _Understanding the emotional toll of PCOS-and how to Cope_. Social Synergies Support. https://www.socialsynergiessupport.org/blog-page/blog-post-title-two-fzpka
 
 Watson, K. (2023, February 6). _Natural treatment PCOS: 30 ways to help hormones, insulin, and more_. Healthline. https://www.healthline.com/health/womens-health/natural-treatment-pcos
+
+Migala, J. (2022, October 22). _How is polycystic ovary syndrome (PCOS) treated?_. EverydayHealth.com. https://www.everydayhealth.com/pcos/treatment-therapy-options/
