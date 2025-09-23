@@ -27,6 +27,5 @@ aromatherapy, or spending time in nature can help reduce stress
 and improve mental well-being.  
 
 - **Limit stressors**: Identify and set boundaries around sources 
-of stress in your life. Seek professional counseling, such as  
-cognitive-behavioral therapy (CBT), if stress becomes  
-overwhelming (LoginUser, 2025) .
+of stress in your life. Seek professional counseling, such as cognitive-  
+behavioral therapy (CBT), if stress becomes overwhelming (LoginUser, 2025).
