@@ -6,7 +6,7 @@ Incorporate anti-inflammatory foods into your diet to help manage symptoms of PC
 
 ## Increase Fiber and Magnesium
 
-Consuming high-fiber foods, such as lentils and avocados, can significantly enhance digestive health. Fiber aids in promoting regular bowel movements, preventing constipation, and fostering a healthy gut microbiome. Additionally, incorporating magnesium-rich foods like almonds and spinach may be beneficial for individuals managing Polycystic Ovary Syndrome (PCOS). Magnesium plays a crucial role in regulating insulin levels and can help alleviate some symptoms associated with PCOS, thereby promoting overall hormonal balance and reproductive health (Watson, 2023).
+Consuming high-fiber foods, such as lentils and avocados, can significantly enhance digestive health. Fiber aids in promoting regular bowel movements, preventing constipation, and fostering a healthy gut microbiome. Additionally, incorporating magnesium-rich foods like almonds and spinach may be beneficial for individuals managing Polycystic Ovary Syndrome (PCOS). Magnesium and adding [[Supplement Support]] plays a crucial role in regulating insulin levels and can help alleviate some symptoms associated with PCOS, thereby promoting overall hormonal balance and reproductive health (Watson, 2023).
 
 
 ## Reduce caffeine and sugar

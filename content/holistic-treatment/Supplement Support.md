@@ -1,6 +1,6 @@
 ## Herbal Supplements
 
-Certain herbs and dietary supplements have demonstrated potential  
+Certain herbs, dietary supplements, and [[Anti-Inflammatory Foods]] have demonstrated potential  
 benefits in alleviating symptoms of Polycystic Ovary Syndrome (PCOS),  
 particularly those related to insulin resistance and hormonal  
 imbalances. For example, supplements such as inositol, spearmint tea,  
