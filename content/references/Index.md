@@ -11,3 +11,5 @@ Bernabe, M. (2025, May 4). _Understanding the emotional toll of PCOS-and how to 
 Watson, K. (2023, February 6). _Natural treatment PCOS: 30 ways to help hormones, insulin, and more_. Healthline. https://www.healthline.com/health/womens-health/natural-treatment-pcos
 
 Migala, J. (2022, October 22). _How is polycystic ovary syndrome (PCOS) treated?_. EverydayHealth.com. https://www.everydayhealth.com/pcos/treatment-therapy-options/
+
+Perry, G. N. (Ed.). (2022, January 24). _Polycystic ovary syndrome_. https://www.endocrine.org. https://www.endocrine.org/-/media/endocrine/files/patient-engagement/hormones-and-series/hormones_and_polycystic_ovary_syndrome_what_you_need_to_know.pdf
