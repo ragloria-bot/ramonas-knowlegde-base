@@ -12,9 +12,9 @@ title: My Journey with PCOS
 * [[my-life-now/index|My Life Now with PC]]
 
 
-*Hello! My name is Ramona.* 
 
-![[assets/ramona-ttu.jpg]]
+
+![[assets/ramona-ttu.jpg]]  *Hello! My name is Ramona.* 
 
 My journey with Polycystic Ovary Syndrome (PCOS) has not been the most  
 thrilling aspect of my life over the past 20 years, but it has  
