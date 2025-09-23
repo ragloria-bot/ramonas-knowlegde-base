@@ -12,16 +12,17 @@ interconnected factors is crucial for providing comprehensive support and care
 for those living with PCOS.
 
 
-> Incorporating a balanced diet and regular exercise into one’s lifestyle not only facilitates  
-> weight reduction but also promotes better physical and mental well-being.   
+> Incorporating a balanced diet and regular exercise into one’s lifestyle not only  
+> facilitates weight reduction but also promotes better physical and mental well-being.   
 
 
 ![PCOS Impact](image-4.png)
 (Bernabe, 2025)
+
 *Polycystic ovary syndrome (PCOS) can lead to emotional problems like anxiety and depression.  
-This happens because of physical symptoms such as weight gain, unwanted hair growth, and infertility.  
-These symptoms can lower self-esteem and create a negative body image. Additionally, stress  
-and hormonal changes can increase the risk of mental health issues.*
+This happens because of physical symptoms such as weight gain, unwanted hair growth, and  
+infertility. These symptoms can lower self-esteem and create a negative body image.  
+Additionally, stress and hormonal changes can increase the risk of mental health issues.*
 
 ### Seeking Support
 
@@ -34,6 +35,7 @@ treatment plans as necessary. Together, these approaches can significantly allev
 daily challenges and the long-term burden associated with managing your condition.
 
 ##### Tips for easing stress
+
 - Go for a walk
 - Talk to a trusted friend
 - Do breathing exercises
