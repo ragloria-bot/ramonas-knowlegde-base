@@ -25,7 +25,6 @@ It’s important for those affected to consult with a dermatologist to determine
 the most effective treatment plan tailored to their specific skin type and needs.
 
 ![PCOS Acne](image-2.png)  
-
 (Kristina Liu & Janelle Nassim, 2021)
 
 *For women diagnosed with polycystic ovarian syndrome (PCOS), a range of physical  
@@ -65,4 +64,5 @@ quality of life.
 - Get good sleep
 
 
-![[assets/how-pcos-affects-the-body.png]]
+![[assets/how-pcos-affects-the-body.png]]  
+(Migala, 2022)
