@@ -1,7 +1,18 @@
 ---
 title: My Journey with PCOS
 ---
-### Hello! My name is Ramona. 
+
+## Main Categories
+
+* [[living-with-pcos/index|Living with PCOS]]
+* [[my-symptoms/index|My Symptoms]]
+* [[medical-treatment/index|Medical Treatment]]
+* [[holistic-treatment/index|Holistic Treatment]]
+* [[about/index|Diet and Exercise]]
+* [[my-life-now/index|My Life Now with PC]]
+
+
+### *Hello! My name is Ramona.* 
 
 ![[assets/ramona-ttu.jpg]]
 
@@ -20,14 +31,6 @@ easier and less overwhelming. Let’s delve into lifestyle changes,
 dietary adjustments, and emotional support that can empower us to  
 manage this condition more effectively.
 
-## Main Categories
-
-* [[living-with-pcos/index|Living with PCOS]]
-* [[my-symptoms/index|My Symptoms]]
-* [[medical-treatment/index|Medical Treatment]]
-* [[holistic-treatment/index|Holistic Treatment]]
-* [[about/index|Diet and Exercise]]
-* [[my-life-now/index|My Life Now with PC]]
 
 ### Disclaimer: 
 
