@@ -19,8 +19,8 @@ and minimizing processed and unhealthy options, you'll be taking significant ste
 and fiber. These foods help you stay full longer and maintain a healthy weight.*
 
 
-> Be mindful of your consumption of processed snacks and sugary beverages, as these often contain high levels  
-of added sugars, unhealthy fats, and preservatives that can negatively impact your health over time.
+> Be mindful of your consumption of processed snacks and sugary beverages, as these often contain high levels of added sugars,  
+> unhealthy fats, and preservatives that can negatively impact your health over time.
 
 
 ### Regular Exercise

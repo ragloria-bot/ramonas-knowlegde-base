@@ -13,7 +13,7 @@ for those living with PCOS.
 
 
 > Incorporating a balanced diet and regular exercise into one’s lifestyle not only facilitates  
-weight reduction but also promotes better physical and mental well-being. 
+> weight reduction but also promotes better physical and mental well-being.   
 
 
 ![PCOS Impact](image-4.png)
