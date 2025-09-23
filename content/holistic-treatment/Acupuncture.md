@@ -1,4 +1,4 @@
-## ## Chinese medicine and PCOS
+## Chinese medicine and PCOS
 
 Acupuncture is a complementary therapy that can effectively support  
 the management of Polycystic Ovary Syndrome (PCOS). This ancient  
