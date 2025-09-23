@@ -4,7 +4,8 @@ tags:
 ---
 ## Important Links
 
-[[]]
+[[Anti-Inflammatory Foods]]
+
 
 ## Related Categories
 
