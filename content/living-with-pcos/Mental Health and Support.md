@@ -19,19 +19,21 @@ for those living with PCOS.
 ![PCOS Impact](image-4.png)
 (Bernabe, 2025)
 
-*Polycystic ovary syndrome (PCOS) can lead to emotional problems like anxiety and depression.  
-This happens because of physical symptoms such as weight gain, unwanted hair growth, and  
-infertility. These symptoms can lower self-esteem and create a negative body image.  
-Additionally, stress and hormonal changes can increase the risk of mental health issues.*
+*Polycystic ovary syndrome (PCOS) can lead to emotional problems like anxiety and  
+depression. This happens because of physical symptoms such as weight gain, unwanted  
+hair growth, and infertility. These symptoms can lower self-esteem and create a  
+negative body image. Additionally, stress and hormonal changes can increase the risk  
+of mental health issues.*
 
 ### Seeking Support
 
-Participating in peer support groups can provide invaluable emotional and practical assistance,  
-as these communities often share lived experiences and coping strategies. Collaborating closely  
-with healthcare teams ensures that you receive comprehensive care tailored to your specific needs  
-and [[Medical Management]]. Additionally, maintaining open lines of communication with your doctor  
-is crucial; regular check-ins can help track your progress, address new concerns, and adjust  
-treatment plans as necessary. Together, these approaches can significantly alleviate both the  
+Participating in peer support groups can provide invaluable emotional and practical  
+assistance, as these communities often share lived experiences and coping strategies.  
+Collaborating closely with healthcare teams ensures that you receive comprehensive  
+care tailored to your specific needs and [[Medical Management]]. Additionally,  
+maintaining open lines of communication with your doctor is crucial; regular check-ins  
+can help track your progress, address new concerns, and adjust treatment plans as  
+necessary. Together, these approaches can significantly alleviate both the  
 daily challenges and the long-term burden associated with managing your condition.
 
 ##### Tips for easing stress
@@ -42,12 +44,13 @@ daily challenges and the long-term burden associated with managing your conditio
 
 #### Societal Stigma and Misconceptions
 
-Living with Polycystic Ovary Syndrome (PCOS) often means navigating a complex landscape filled  
-with societal stigma and prevalent misconceptions about the condition. Many people may not fully  
-understand what PCOS entails, leading to stereotypes and unwarranted judgments. This lack of  
-awareness can result in feelings of isolation for those affected, as they may struggle to find  
-support or empathy from friends, family, and even healthcare providers. Additionally, the emotional  
-toll of managing this chronic condition can be compounded by these societal pressures, impacting  
-both personal relationships, mental well-being, and [[Managing Symptoms]]. Individuals may experience  
-anxiety, depression, or frustration as they try to cope with their symptoms in an environment  
+Living with Polycystic Ovary Syndrome (PCOS) often means navigating a complex landscape  
+filled with societal stigma and prevalent misconceptions about the condition. Many people  
+may not fully understand what PCOS entails, leading to stereotypes and unwarranted  
+judgments. This lack of awareness can result in feelings of isolation for those affected,  
+as they may struggle to find support or empathy from friends, family, and even healthcare  
+providers. Additionally, the emotional toll of managing this chronic condition can be  
+compounded by these societal pressures, impacting both personal relationships, mental  
+well-being, and [[Managing Symptoms]]. Individuals may experience anxiety, depression,  
+or frustration as they try to cope with their symptoms in an environment  
 that often lacks understanding and compassion.
