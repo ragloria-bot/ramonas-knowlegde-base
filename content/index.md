@@ -2,6 +2,7 @@
 title: My Journey with PCOS
 ---
 Hello! My name is Ramona. ![[assets/ramona-ttu.jpg]]
+
 My journey with Polycystic Ovary Syndrome (PCOS) has not been the most  
 thrilling aspect of my life over the past 20 years, but it has  
 undoubtedly been a profound learning experience. PCOS is a complex  
