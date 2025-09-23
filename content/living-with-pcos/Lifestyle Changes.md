@@ -1,9 +1,10 @@
 ## Healthy Diet
 
-To promote a healthier lifestyle, prioritize incorporating whole foods into your diet. Aim to fill your plate with a  
-variety of fresh fruits and vegetables, which provide essential vitamins, minerals, and antioxidants that support  
-overall health. Whole grains, such as brown rice, quinoa, and whole wheat, are excellent sources of fiber, helping  
-to maintain digestive health and keep you feeling full longer.
+To promote a healthier lifestyle, prioritize incorporating whole foods into your diet.  
+Aim to fill your plate with a variety of fresh fruits and vegetables, which provide  
+essential vitamins, minerals, and antioxidants that support overall health.  
+Whole grains, such as brown rice, quinoa, and whole wheat, are excellent  
+sources of fiber, helping to maintain digestive health and keep you feeling full longer.
 
 Additionally, be mindful of your consumption of processed snacks and sugary beverages, as these often contain high levels of added  
 sugars, unhealthy fats, and preservatives that can negatively impact your health over time. Instead, consider healthier snack options,  
@@ -15,6 +16,7 @@ and minimizing processed and unhealthy options, you'll be taking significant ste
 
 ![PCOS Tips](image.png)
 (Canada, 2025)
+
 *Eating vegetables and fruits is very important. They are full of nutrients like antioxidants, vitamins, minerals,  
 and fiber. These foods help you stay full longer and maintain a healthy weight.*
 
