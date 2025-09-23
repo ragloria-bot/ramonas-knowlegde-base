@@ -2,5 +2,10 @@
 title: Holistic Treatment
 tags:
 ---
+## Important Links
+
+[[]]
+
 ## Related Categories
+
 Holistic Treatment is the great way to start but also incorporating  [[diet-and-exercise/index|Diet and Exercise]]. 
