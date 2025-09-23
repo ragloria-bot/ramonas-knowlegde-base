@@ -48,8 +48,8 @@ risk of obesity-related complications, and improve the effectiveness of various
 treatments, such as medications for diabetes and hypertension. Incorporating a balanced  
 diet and regular exercise into one’s lifestyle not only facilitates weight reduction but  
 also promotes better physical and mental well-being. Therefore, addressing obesity  
-through manageable lifestyle changes can have a significant impact on health outcomes and  
-quality of life.
+through manageable lifestyle changes can have a significant impact on health outcomes  
+and quality of life.
 
 
 > Engaging in regular physical activity plays a crucial role in managing body  
