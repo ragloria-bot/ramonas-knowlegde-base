@@ -24,7 +24,7 @@ cleansers, oil-free moisturizers, and exfoliating products to help unclog pores.
 It’s important for those affected to consult with a dermatologist to determine  
 the most effective treatment plan tailored to their specific skin type and needs.
 
-![PCOS Acne](image-2.png)  
+![PCOS Acne](image-2.png)
 (Kristina Liu & Janelle Nassim, 2021)
 
 *For women diagnosed with polycystic ovarian syndrome (PCOS), a range of physical  

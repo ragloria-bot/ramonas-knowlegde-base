@@ -16,7 +16,7 @@ is crucial for providing comprehensive support and care for those living with PC
 > facilitates weight reduction but also promotes better physical and mental well-being.   
 
 
-![PCOS Impact](image-4.png)  
+![PCOS Impact](image-4.png)
 (Bernabe, 2025)
 
 *Polycystic ovary syndrome (PCOS) can lead to emotional problems like anxiety and  
