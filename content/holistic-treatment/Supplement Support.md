@@ -1,18 +1,19 @@
 ## Herbal Supplements
 
-Certain herbs, dietary supplements, and [[Anti-Inflammatory Foods]] have demonstrated potential  
-benefits in alleviating symptoms of Polycystic Ovary Syndrome (PCOS),  
-particularly those related to insulin resistance and hormonal  
-imbalances. For example, supplements such as inositol, spearmint tea,  
-and omega-3 fatty acids may support metabolic health and improve  
-hormonal regulation. However, it is essential to consult a healthcare  
-provider before starting any new supplement regimen. This is crucial  
-because dietary supplements are not regulated by the FDA, which means  
-their safety, efficacy, and quality can vary significantly.  
-Additionally, some supplements may interact with prescription  
-medications or exacerbate existing health conditions. Therefore,  
-a tailored approach supervised by a healthcare professional is  
-advisable to ensure the best outcomes for managing PCOS (Watson, 2023).
+Certain herbs, dietary supplements, and [[Anti-Inflammatory Foods]]  
+have demonstrated potential benefits in alleviating symptoms of  
+Polycystic Ovary Syndrome (PCOS), particularly those related to  
+insulin resistance and hormonal imbalances. For example, supplements  
+such as inositol, spearmint tea, and omega-3 fatty acids may support  
+metabolic health and improve hormonal regulation. However, it is  
+essential to consult a healthcare provider before starting any new  
+supplement regimen. This is crucial because dietary supplements are  
+not regulated by the FDA, which means their safety, efficacy, and  
+quality can vary significantly. Additionally, some supplements may  
+interact with prescription medications or exacerbate existing health  
+conditions. Therefore, a tailored approach supervised by a healthcare  
+professional is advisable to ensure the best outcomes for managing  
+PCOS (Watson, 2023).
 
 - **Inositol**: A B-vitamin that can improve insulin resistance and,  
 in some cases, enhance fertility.  
