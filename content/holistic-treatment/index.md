@@ -9,4 +9,4 @@ tags:
 
 ## Related Categories
 
-Holistic Treatment is the great way to start but also incorporating  [[diet-and-exercise/index|Diet and Exercise]]. 
+Holistic Treatment is the great way to start but also incorporating  [[about/index|Diet and Exercise]]. 
