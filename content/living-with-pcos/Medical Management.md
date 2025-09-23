@@ -58,3 +58,4 @@ personalized support, education, and resources, ultimately improving their overa
 quality of life and well-being.
 
 ![[assets/Hormones_and_Polycystic_Ovary_Syndrome_What_You_Need_to_Know.pdf]]
+(Perry, 2022)
