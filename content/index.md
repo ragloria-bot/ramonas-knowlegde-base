@@ -38,7 +38,3 @@ Any reliance on the information provided in this document is solely
 at your own risk.
 
 
-
-
----
-.
