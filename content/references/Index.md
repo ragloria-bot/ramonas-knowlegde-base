@@ -21,3 +21,4 @@ LoginUser, S. (2025, January 22). _Managing PCOS and stress: Simple steps for a 
 
 _Acupuncture for PCOS treatment, NYC: Advanced holistic center_. Advanced Holistic Center: NYC Acupuncture & Chinese Medicine Center. (2025, January 27). https://advancedholisticcenter.com/conditions/pcos/#:~:text=Can%20acupuncture%20and%20Chinese%20medicine,can%20aid%20in%20stress%20reduction.
 
+Women’s Health of Central Virginia. (2024, November 19). _Support and lifestyle tips for managing PCOS: Lynchburg, VA_. https://www.womenshealthofcentralvirginia.com/support-lifestyle-tips-pcos/#:~:text=Manage%20Stress%20and%20Prioritize%20Mental,more%20supported%20in%20managing%20PCOS.
