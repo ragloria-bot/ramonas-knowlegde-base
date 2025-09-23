@@ -12,7 +12,7 @@ title: My Journey with PCOS
 * [[my-life-now/index|My Life Now with PC]]
 
 
-### *Hello! My name is Ramona.* 
+*Hello! My name is Ramona.* 
 
 ![[assets/ramona-ttu.jpg]]
 
