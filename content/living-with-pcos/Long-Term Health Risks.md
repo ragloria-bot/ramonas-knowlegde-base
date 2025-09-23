@@ -32,7 +32,8 @@ is crucial for holistic care and can lead to a better understanding of both the
 physical and emotional aspects of living with PCOS.
 
 
-> "You are allowed to be both a masterpiece and a work in progress simultaneously" — Sophia Bush. 
+> "You are allowed to be both a masterpiece and a work in progress simultaneously"  
+> — Sophia Bush. 
 
 
 ##### When to seek help when you are feeling:
