@@ -17,6 +17,7 @@ weight reduction but also promotes better physical and mental well-being.
 
 
 ![PCOS Impact](image-4.png)
+(Bernabe, 2025)
 *Polycystic ovary syndrome (PCOS) can lead to emotional problems like anxiety and depression.  
 This happens because of physical symptoms such as weight gain, unwanted hair growth, and infertility.  
 These symptoms can lower self-esteem and create a negative body image. Additionally, stress  

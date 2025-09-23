@@ -2,7 +2,8 @@
 
 Women with polycystic ovary syndrome (PCOS) face an elevated risk of developing several cardiovascular health issues, including high blood pressure (hypertension), elevated cholesterol levels, and heart disease. PCOS is a hormonal disorder that can lead to insulin resistance, which in turn may contribute to metabolic syndrome—a cluster of conditions that increase the risk of heart disease and other serious health complications. Research suggests that the hormonal imbalances and metabolic challenges associated with PCOS can significantly impact cardiovascular health, making it crucial for individuals with this condition to monitor their heart health, maintain a balanced diet, [[Lifestyle Changes]] , engage in regular physical activity, and work closely with healthcare providers to manage these risks effectively.
 
-![heart health](image-1.png)
+![heart health](image-1.png) 
+(Lakusta, 2022)
 *PCOS significantly raises the risk of heart disease symptoms, such as chest pain, due to factors like insulin resistance and elevated cholesterol levels.*
 
 ### Mental Health

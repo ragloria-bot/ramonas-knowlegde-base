@@ -7,3 +7,5 @@ Kristina Liu, M., & Janelle Nassim, M. (2021, April 29). _Polycystic ovarian syn
 _Hormonal treatment for PCOS: Guide to oral contraceptives and progesterone therapy_. Hormonal Treatment for PCOS-Doctor’s Guide | Dr. Jay Mehta. (2025, August 22). https://www.shreeivfclinic.com/pcos-hormonal-medications/
 
 Bernabe, M. (2025, May 4). _Understanding the emotional toll of PCOS-and how to Cope_. Social Synergies Support. https://www.socialsynergiessupport.org/blog-page/blog-post-title-two-fzpka
+
+Watson, K. (2023, February 6). _Natural treatment PCOS: 30 ways to help hormones, insulin, and more_. Healthline. https://www.healthline.com/health/womens-health/natural-treatment-pcos

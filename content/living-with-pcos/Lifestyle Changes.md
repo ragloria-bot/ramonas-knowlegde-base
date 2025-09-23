@@ -14,6 +14,7 @@ Instead, explore alternatives like lean poultry, fish, legumes, and plant-based 
 and minimizing processed and unhealthy options, you'll be taking significant steps toward a balanced and nutritious diet.
 
 ![PCOS Tips](image.png)
+(Canada, 2025)
 *Eating vegetables and fruits is very important. They are full of nutrients like antioxidants, vitamins, minerals,  
 and fiber. These foods help you stay full longer and maintain a healthy weight.*
 

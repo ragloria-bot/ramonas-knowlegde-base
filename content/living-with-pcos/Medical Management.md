@@ -6,9 +6,10 @@ improving the body's sensitivity to insulin, which can lead to lower insulin lev
 circulating androgen levels. This is particularly beneficial for individuals experiencing hormonal  
 imbalances, as high androgen levels can contribute to various health issues, including polycystic  
 ovary syndrome (PCOS). By targeting both insulin resistance and androgen production, metformin can  
-play a crucial role in improving overall hormonal balance and [[Managing Symptoms]].
+play a crucial role in improving overall hormonal balance and [[Managing Symptoms]]. 
 
 ![PCOS Medictions](image-3.png)
+(2025)
 *The medication you need depends on your symptoms and what you require. It's essential to talk  
 to a healthcare professional to find the best treatment for you.*
 

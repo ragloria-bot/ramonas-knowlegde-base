@@ -22,7 +22,8 @@ this may include using gentle cleansers, oil-free moisturizers, and exfoliating 
 help unclog pores. It’s important for those affected to consult with a dermatologist to  
 determine the most effective treatment plan tailored to their specific skin type and needs.
 
-![PCOS Acne](image-2.png)
+![PCOS Acne](image-2.png) 
+(Kristina Liu & Janelle Nassim, 2021)
 *For women diagnosed with polycystic ovarian syndrome (PCOS), a range of physical symptoms  
 can manifest, reflecting the hormonal imbalances often associated with this condition.  
 These may include persistent acne that can affect various areas of the face and body,  
