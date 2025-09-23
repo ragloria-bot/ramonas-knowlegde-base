@@ -1,3 +1,6 @@
+---
+title: Works Cited
+---
 Canada, H. (2025, September 22). _Government of Canada_. Canada’s Food Guide. https://food-guide.canada.ca/en/
 
 Lakusta, G. (2022, March 9). _How to invest in cardiovascular disease treatments_. Investing News Network (INN). https://investingnews.com/daily/life-science-investing/medical-device-investing/how-to-invest-in-cardiovascular-disease-treatments/
