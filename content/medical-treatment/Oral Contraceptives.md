@@ -15,3 +15,5 @@ hirsutism), providing both cosmetic and emotional benefits.
 Overall, their multifaceted functions support not just  
 physical well-being, but also confidence and quality of  
 life for those affected by hormonal imbalances (Migala, 2022).
+
+![[Birth Control Pills.jpg]]

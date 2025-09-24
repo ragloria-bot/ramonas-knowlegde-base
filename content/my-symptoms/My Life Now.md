@@ -26,3 +26,5 @@ on my own terms. I am committed to embracing my
 journey and encouraging others to do the same,  
 proving that we can find joy and purpose regardless  
 of the challenges we face.
+
+![[glass.jpg]]

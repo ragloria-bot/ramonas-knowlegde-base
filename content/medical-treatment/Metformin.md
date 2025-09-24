@@ -17,3 +17,5 @@ responses to food intake and reducing insulin resistance,
 making it easier for the body to manage blood sugar levels.  
 These benefits can contribute to improved reproductive  
 health and overall well-being (Migala, 2022).
+
+![[metformin.jpg]]

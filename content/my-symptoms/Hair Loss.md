@@ -20,3 +20,5 @@ large amounts of hair, be considered normal when all my
 tests indicate that everything is functioning properly?  
 This discrepancy has left me searching for answers  
 and feeling frustrated.
+
+![[hairloss.jpg]]

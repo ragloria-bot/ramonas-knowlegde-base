@@ -28,3 +28,5 @@ childhood experiences serves as a constant reminder of
 what our family could have been. It's a painful dynamic  
 that adds another layer of complexity to my feelings  
 about motherhood and the limitations imposed by PCOS.
+
+![[Infertility.jpg]]

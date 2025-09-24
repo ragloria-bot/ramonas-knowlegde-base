@@ -13,3 +13,5 @@ for those who desire to have children. By working closely with
 a healthcare provider, individuals can explore various treatment  
 options to enhance their chances of conception and achieve  
 their family planning goals (HealthPartners, 2025).
+
+![[Fertility Medications.jpg]]

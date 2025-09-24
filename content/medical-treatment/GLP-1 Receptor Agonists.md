@@ -11,3 +11,5 @@ helping to alleviate symptoms associated with hyperandrogenism.
 Additionally, these medications may contribute to more regular  
 menstrual cycles, improving overall hormonal balance and  
 reproductive health in women affected by PCOS (Young, 2024).
+
+![[GLP-1 Receptor Agonists.jpg]]

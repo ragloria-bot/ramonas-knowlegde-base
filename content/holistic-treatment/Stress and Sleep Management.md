@@ -14,6 +14,8 @@ weight gain, and mood swings, highlighting the importance
 of stress management and proper sleep hygiene for those  
 affected by PCOS (LoginUser, 2025).  
 
+![[stress managment.jpg]]
+
 - **Practice mindfulness**: Meditation, deep breathing  
 exercises, and guided imagery can help calm the mind and  
 lower cortisol levels.  

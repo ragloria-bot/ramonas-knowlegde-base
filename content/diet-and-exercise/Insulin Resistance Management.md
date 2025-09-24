@@ -25,6 +25,7 @@ options, individuals with PCOS can take proactive steps
 toward managing their symptoms and improving their  
 long-term health (Catalyst, 2024).
 
+![[insulin-pcos.jpg]]
 ### Counteract High Insulin
 
 Effectively managing Polycystic Ovary Syndrome (PCOS)  

@@ -12,3 +12,5 @@ skin. These treatments are often part of a comprehensive
 approach to address hormonal imbalances, particularly in  
 conditions like polycystic ovary syndrome (PCOS), where  
 such skin issues are common (Mayo Foundation, 2022) .
+
+![[Antiandrogens 1.jpg]]

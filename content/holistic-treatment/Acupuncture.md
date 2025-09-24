@@ -15,6 +15,8 @@ of PCOS. Overall, acupuncture offers a holistic approach to managing
 symptoms and improving quality of life for individuals affected by  
 this condition (2025).  
 
+![[accupunture.jpg]]
+
 - **Regulates Hormones:** Research suggests that acupuncture can  
 effectively influence the hypothalamic-pituitary-ovarian axis,  
 an essential component of hormone regulation.  

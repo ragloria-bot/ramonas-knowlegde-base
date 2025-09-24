@@ -18,6 +18,7 @@ adjustments and increased physical activity, can be an
 effective strategy for managing PCOS and improving overall  
 well-being (Aster DM Healthcare, 2022).
 
+![[pcos-workout.jpg]]
 ###  Reduce Abdominal Fat
 
 Certain dietary approaches, such as the DASH (Dietary Approaches  
