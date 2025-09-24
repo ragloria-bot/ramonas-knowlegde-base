@@ -8,4 +8,4 @@ title: Diet and Exercise
 * [[Benefits of Diet and Exercise for PCOS]]
 * [[Insulin Resistance Management]]
 * [[Support Healthy Weight]]
-* 
+

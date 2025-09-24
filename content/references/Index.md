@@ -29,3 +29,8 @@ Vergis, L. (2024, September 12). _PCOS and nutrition: Your path to hormonal bala
 
 Aster DM Healthcare. (2022, December 15). _The best types of exercise to fight PCOS_. Exercise to Reduce PCOS Belly Fat | Aster DM Healthcare. https://www.asterdmhealthcare.com/health-library/the-best-types-of-exercise-to-fight-pcos
 
+Mayo Foundation for Medical Education and Research. (2022, September 8). _Polycystic ovary syndrome (PCOS)_. Mayo Clinic. https://www.mayoclinic.org/diseases-conditions/pcos/diagnosis-treatment/drc-20353443#:~:text=provider%20might%20recommend:-,Birth%20control%20pills.,or%20planning%20to%20become%20pregnant.
+
+Young, J. (2024, November 15). _PCOS and insulin resistance: What’s the link?_ Numan. https://www.numan.com/weight-loss/tips/pcos-insulin-resistance
+
+HealthPartners. (2025, July 9). _Learn about your PCOS treatment options: From self-care to medication_. HealthPartners Blog. https://www.healthpartners.com/blog/treatment-for-pcos/#:~:text=Clomiphene.%20Clomiphene%20is%20an%20ovulation%20stimulant%20that,increasing%20your%20chances%20of%20conception%20each%20month.
