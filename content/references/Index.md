@@ -27,3 +27,5 @@ Catalyst, J. (2024, July 25). _PCOS and your diet - insulin resistance - San ant
 
 Vergis, L. (2024, September 12). _PCOS and nutrition: Your path to hormonal balance | northside hospital_. PCOS and nutrition: Your path to hormonal balance. https://www.northside.com/about/news-center/article-details/pcos-and-nutrition-your-path-to-hormonal-balance
 
+Aster DM Healthcare. (2022, December 15). _The best types of exercise to fight PCOS_. Exercise to Reduce PCOS Belly Fat | Aster DM Healthcare. https://www.asterdmhealthcare.com/health-library/the-best-types-of-exercise-to-fight-pcos
+

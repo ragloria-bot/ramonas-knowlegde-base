@@ -27,5 +27,5 @@ more regularly.
 blood sugar levels, which is vital for those dealing with insulin resistance.  
 
 - **Reduces Stress:** Furthermore, acupuncture has been shown to lower  
-cortisol levels and foster a sense of relaxation.
+cortisol levels and foster a sense of relaxation (2025).
 
