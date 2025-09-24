@@ -8,7 +8,7 @@ title: My Journey with PCOS
 * [[my-symptoms/index|My Symptoms]]
 * [[medical-treatment/index|Medical Treatment]]
 * [[holistic-treatment/index|Holistic Treatment]]
-* [[about/index|Diet and Exercise]]
+* [[diet-and-exercise/index|Diet and Exercise]]
 
 
 
