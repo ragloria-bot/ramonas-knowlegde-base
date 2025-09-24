@@ -12,7 +12,7 @@ as I delt with how I perceive myself versus how he sees me.
 
 Despite my extensive experience consulting with various  
 doctors and undergoing countless blood tests, each medical  
-professional has consistently reported that all my results 
+professional has consistently reported that all my results  
 come back normal. With that in mind, I find it perplexing  
 and concerning that I'm experiencing significant hair loss.  
 How can such a drastic change in my health, like losing  
