@@ -46,4 +46,4 @@ successfully lost over 100 lbs. This experience has not only
 improved my physical health but has also renewed my faith  
 in my ability to take control of my life and well-being.
 
-![[weightgain.jpg]]
+![[weight-gain.jpg]]
