@@ -44,6 +44,6 @@ diet and exercise, I embarked on a transformative journey.
 Over time, I began to see real progress, and I have  
 successfully lost over 100 lbs. This experience has not only  
 improved my physical health but has also renewed my faith  
-in my ability to take control of my life and well-being.
+in my ability to take control of [[My Life Now]] and well-being.
 
 ![[weight-gain.jpg]]

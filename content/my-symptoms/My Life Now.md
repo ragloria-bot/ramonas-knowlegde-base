@@ -4,10 +4,10 @@
 Reflecting on the past 20 years since my initial diagnosis,  
 I can honestly say that my overall quality of life has  
 improved tremendously. While I still experience some  
-lingering symptoms, I have learned to embrace them as  
-part of my identity rather than letting them define me.  
-They have shaped me into the woman, wife, and mother  
-I am today.
+lingering symptoms such as [[Hair Loss]], I have learned 
+to embrace them as  part of my journey rather than 
+letting them define me.  They have shaped me into 
+the woman, wife, and mother  I am today.
 
 Health-wise, I feel significantly better and more  
 comfortable in my own skin. In 2023, I made a pivotal  

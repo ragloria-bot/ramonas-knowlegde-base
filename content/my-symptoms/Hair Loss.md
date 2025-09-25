@@ -19,6 +19,7 @@ How can such a drastic change in my health, like losing
 large amounts of hair, be considered normal when all my  
 tests indicate that everything is functioning properly?  
 This discrepancy has left me searching for answers  
-and feeling frustrated.
+and feeling frustrated. [[My Life Now]] I try not focus on 
+symptom as it does not define me or take away me identity. 
 
 ![[hairloss.jpg]]
