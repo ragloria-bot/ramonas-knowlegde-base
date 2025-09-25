@@ -25,7 +25,7 @@ per night. Establish a consistent routine, avoid electronics
 before bed, and create a restful environment.  
 
 - **Engage in relaxation techniques**: Activities like journaling,  
-aromatherapy, or spending time in nature can help reduce stress  
+aromatherapy, [[Acupuncture]] or spending time in nature can help reduce stress  
 and improve mental well-being.  
 
 - **Limit stressors**: Identify and set boundaries around sources 
