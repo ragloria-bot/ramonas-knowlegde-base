@@ -17,8 +17,8 @@ symptoms and improving quality of life for individuals affected by
 this condition (2025).  
 
 ![[accupunture.jpg]]
-
-- **Regulates Hormones:**  
+  
+  - **Regulates Hormones:**  
 Research suggests that acupuncture can effectively influence the  
 hypothalamic-pituitary-ovarian axis,an essential component  
 of hormone regulation.  
