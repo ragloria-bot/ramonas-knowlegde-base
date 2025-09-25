@@ -27,8 +27,9 @@ your metabolism but also helps stabilize blood sugar levels,
 contributing to your overall health.  
 
 - **Incorporate Gentle, Stress-Reducing Activities:** Practices like  
-yoga and Pilates can effectively help manage stress, reduce cortisol  
-levels, and enhance insulin sensitivity.  
+yoga, Pilates [[Stress and Sleep Management]] can effectively  
+help manage stress, reduce cortisol  levels, and enhance  
+insulin sensitivity.  
 
 - **Prioritize Healthy Weight Loss:** For those who are overweight,  
 losing even a small percentage of body weight (5–10%) can have a   
