@@ -27,6 +27,7 @@ toward managing their symptoms and improving their
 long-term health (Catalyst, 2024).
 
 ![[insulin-pcos.jpg]]
+
 ### Counteract High Insulin
 
 Effectively managing Polycystic Ovary Syndrome (PCOS)  
