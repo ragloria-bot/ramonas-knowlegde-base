@@ -16,6 +16,7 @@ each week to support your overall health and effectively
 manage PCOS (Women's Health of Central Virginia, 2024).  
 
 ![[pcos weight managment.jpg]]
+(2025)
 
 - **Engage in Regular Moderate Exercise:** Aim for a minimum  
 of 150 minutes of moderate-intensity aerobic exercise each week.  

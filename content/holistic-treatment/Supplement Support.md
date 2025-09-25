@@ -16,6 +16,7 @@ professional is advisable to ensure the best outcomes for managing
 PCOS (Watson, 2023).
 
 ![[pcos supplement 1.jpg]]
+(Watson, 2023)
 
 - **Inositol**: A B-vitamin that can improve insulin resistance and,  
 in some cases, enhance fertility.  

@@ -18,6 +18,8 @@ a significant role in managing PCOS effectively
 (Watson, 2023).
 
 ![[anti inflammatory foods.jpg]]
+(Watson, 2023)  
+
 ## Increase Fiber and Magnesium
 
 Consuming high-fiber foods, such as lentils and avocados,  

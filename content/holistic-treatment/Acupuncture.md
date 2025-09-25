@@ -17,6 +17,7 @@ symptoms and improving quality of life for individuals affected by
 this condition (2025).  
 
 ![[accupunture.jpg]]
+(2025)
   
   - **Regulates Hormones:**  
 Research suggests that acupuncture can effectively influence the  

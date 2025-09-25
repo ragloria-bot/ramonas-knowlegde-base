@@ -20,6 +20,7 @@ effective strategy for managing PCOS and improving overall
 well-being (Aster DM Healthcare, 2022).
 
 ![[pcos-workout.jpg]]
+(2025)
 
 ###  Reduce Abdominal Fat
 

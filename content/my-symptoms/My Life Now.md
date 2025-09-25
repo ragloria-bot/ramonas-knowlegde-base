@@ -28,3 +28,4 @@ proving that we can find joy and purpose regardless
 of the challenges we face.
 
 ![[glass.jpg]]
+(HealthPartners, 2025)

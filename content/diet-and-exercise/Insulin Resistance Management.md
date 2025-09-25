@@ -27,6 +27,7 @@ toward managing their symptoms and improving their
 long-term health (Catalyst, 2024).
 
 ![[insulin-pcos.jpg]]
+(Catalyst, 2024)
 
 ### Counteract High Insulin
 

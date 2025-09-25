@@ -28,3 +28,4 @@ well-being. This holistic approach serves as a powerful tool
 in managing PCOS and improving overall quality of life (Catalyst, 2024).
 
 ![[pcos-exercise.jpg]]
+(2025)

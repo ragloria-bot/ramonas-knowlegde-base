@@ -29,6 +29,11 @@ Catalyst, J. (2024, July 25). _PCOS and your diet - insulin
     resistance - San antonio obgyns_. Heights OBGYN.  
     https://www.heightsobgyn.com/pcos-and-your-diet/
 
+Cieciwa, J. (2014b, December 31). How to have a healthy  
+    day, in five steps. HuffPost. https://www.huffpost  
+    com/archive/ca/entry/how-to-have-a-healthy-day-in-  
+    five-steps_b_6075606 
+
 HealthPartners. (2025, July 9). _Learn about your PCOS  
     treatment options: From self-care to medication_.  
     HealthPartners Blog. https://www.healthpartners.com/  
