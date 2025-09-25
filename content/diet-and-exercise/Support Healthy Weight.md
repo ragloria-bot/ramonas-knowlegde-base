@@ -6,7 +6,7 @@ and promoting satiety, which may help to reduce overall
 calorie consumption. Incorporating a variety of whole foods  
 such as fruits, vegetables, whole grains, nuts, seeds, and  
 lean sources of protein can provide essential nutrients  
-while keeping you feeling satisfied. 
+while keeping you feeling satisfied. These are the [[Benefits of Diet and Exercise for PCOS]]
 
 For individuals with Polycystic Ovary Syndrome (PCOS),  
 achieving even a modest weight loss of 5–10% of your total  
