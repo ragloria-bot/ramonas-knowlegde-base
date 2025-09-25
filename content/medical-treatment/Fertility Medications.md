@@ -2,6 +2,7 @@
 
 For those trying to conceive, medications like clomiphene  
 citrate play an essential role in stimulating ovulation.  
+Which mean taking a break from [[Oral Contraceptives]].
 This oral medication is particularly beneficial for women  
 diagnosed with polycystic ovary syndrome (PCOS), a condition  
 that can significantly impact fertility. Women with PCOS  

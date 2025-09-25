@@ -8,7 +8,7 @@ alleviate symptoms of hormonal imbalances. Additionally,
 these hormones are effective in reducing acne, as they  
 lower the levels of androgens—male hormones that can  
 contribute to increased oil production in the skin.  
-Furthermore, by decreasing androgen production, these  
+Furthermore, by decreasing [[Antiandrogens]] production, these  
 hormones can significantly minimize excessive hair growth  
 in areas where it may be unwanted (a condition known as  
 hirsutism), providing both cosmetic and emotional benefits.  
