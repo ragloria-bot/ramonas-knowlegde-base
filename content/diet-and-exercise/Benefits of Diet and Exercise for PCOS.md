@@ -17,7 +17,7 @@ levels and reducing cravings.
 
 Regular exercise, including both aerobic and strength-training  
 activities, not only facilitates weight management but also  
-improves insulin sensitivity and hormonal balance. Furthermore,  
+improves [[Insulin Resistance Management]] and hormonal balance. Furthermore,  
 physical activity can enhance mood and reduce stress, factors  
 that are often impacted by PCOS. 
 

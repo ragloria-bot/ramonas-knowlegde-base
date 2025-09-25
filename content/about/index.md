@@ -39,3 +39,7 @@ and improving overall well-being, my goal is to provide you with the
 resources you need to navigate this condition with confidence. Join  
 me in discovering practical tips, lifestyle changes, and community  
 support that can truly transform your experience with PCOS.
+
+![[pcos-begin.jpg]]
+
+

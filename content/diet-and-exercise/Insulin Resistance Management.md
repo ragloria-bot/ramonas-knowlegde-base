@@ -12,7 +12,8 @@ cycles, and increased risk of type 2 diabetes.
 
 To help manage insulin resistance, it is crucial to  
 focus on a diet that includes foods with a low glycemic  
-index (GI). Low-GI foods, such as whole grains, legumes,  
+index (GI) and are the [[Benefits of Diet and Exercise for PCOS]]. 
+Low-GI foods, such as whole grains, legumes,  
 fruits, and non-starchy vegetables, release sugar more  
 slowly into the bloodstream. This slower release helps  
 stabilize blood sugar levels and reduces the demand for  
