@@ -9,7 +9,7 @@ regular physical activity, individuals with PCOS can address
 these imbalances, leading to a range of positive outcomes.
 
 A balanced diet that is rich in whole foods, such as fruits,  
-vegetables, lean proteins, and healthy fats can help regulate 
+vegetables, lean proteins, and healthy fats can help regulate  
 insulin levels, which is particularly important since many with  
 PCOS experience insulin resistance. In addition, incorporating  
 low-glycemic index foods can assist in stabilizing blood sugar  
