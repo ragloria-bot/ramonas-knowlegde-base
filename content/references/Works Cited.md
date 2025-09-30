@@ -33,6 +33,8 @@ Cieciwa, J. (2014b, December 31). How to have a healthy
     day, in five steps. HuffPost. https://www.huffpost  
     com/archive/ca/entry/how-to-have-a-healthy-day-in-  
     five-steps_b_6075606 
+Dr. Jolene Brighten. (2024, October 3). _How to lose weight with PCOS_.  
+	https://drbrighten.com/how-to-lose-weight-with-pcos/
 
 HealthPartners. (2025, July 9). _Learn about your PCOS  
     treatment options: From self-care to medication_.  
