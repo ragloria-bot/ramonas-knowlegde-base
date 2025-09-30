@@ -1,5 +1,6 @@
 ---
-title: Diet and Exercise
+title: Diet and Exercise  
+Date:  October 3,2025
 ---
 ## Things to Consider  
 
