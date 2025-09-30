@@ -22,12 +22,12 @@ diet rich in whole foods, staying physically active,
 and managing stress through techniques like mindfulness  
 and meditation can significantly improve overall  
 quality of life. Additionally, seeking support from  
-healthcare professionals and connecting with others  
-who share similar experiences can foster a sense of  
-community and empowerment. By taking proactive steps,  
-individuals with PCOS can navigate their condition  
-more successfully and enhance their overall  
-health (2022).  
+healthcare professionals ([[medical-treatment/index|Medical Treatment]]) and  
+connecting with others who share similar experiences  
+can foster a sense of community and empowerment.  
+By taking proactive steps, individuals with PCOS can  
+navigate their condition more successfully and  
+enhance their overall health (2022).  
 
 ![[living-with-pcos.jpg]]
 (unknown source)
