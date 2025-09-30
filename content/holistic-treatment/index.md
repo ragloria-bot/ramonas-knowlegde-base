@@ -38,7 +38,7 @@ quently, a personalized approach, overseen by a
 healthcare professional, is advisable to ensure  
 safe and effective management of PCOS. This  
 tailored strategy can help patients navigate their  
-options and achieve optimal health outcomes.
+options and achieve optimal health outcomes.  
 Holistic Treatment is the great way to start but  
 also incorporating  [[about/index|Diet and Exercise]]  
 (Watson, 2023). 
