@@ -2,7 +2,7 @@
 title: References
 ---
 ##  Works Cited 
-All medical and holistic information is located at the [[Works Cited]] page.
+All images, medical and holistic information is located at the [[Works Cited]] page.  
 
 ### Disclaimer: 
 
