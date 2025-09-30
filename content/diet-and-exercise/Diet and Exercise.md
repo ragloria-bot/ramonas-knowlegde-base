@@ -1,5 +1,5 @@
 ---
-Title: Diet and Exercise
+Title: index
 Date: October 3, 2025
 ---
 ## Things to Consider  
@@ -51,7 +51,7 @@ their physical and emotional health (Watson, 2023).
   
 ## Related Categories
  Diet and exercise works hand-in-hand with  
- [[Holistic Treatment|Holistic Treatment]].
+ [[holistic-treatment/index|index]].
 
 ![[diet&exercise-pcos.jpg]]
 (Dr. Jolene Brighten, 2024)  

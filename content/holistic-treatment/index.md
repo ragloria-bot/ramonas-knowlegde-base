@@ -39,7 +39,7 @@ safe and effective management of PCOS. This
 tailored strategy can help patients navigate their  
 options and achieve optimal health outcomes.  
 Holistic Treatment is the great way to start but  
-also incorporating  [[About|Diet and Exercise]]  
+also incorporating  [[about/index|Diet and Exercise]]  
 (Watson, 2023). 
 
 ### Important Links
