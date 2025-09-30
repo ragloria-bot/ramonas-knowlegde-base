@@ -1,6 +1,12 @@
 ---
 title: Diet and Exercise
 ---
+## Important Links
+* [[Benefits of Diet and Exercise for PCOS]]
+* [[Insulin Resistance Management]]
+* [[Support Healthy Weight]]
+
+## Things to Consider  
 
 Adopting certain lifestyle changes can significantly  
 improve the symptoms associated with polycystic ovary  
@@ -47,14 +53,12 @@ integrating these comprehensive lifestyle changes,
 individuals with PCOS may find improvements in both  
 their physical and emotional health (Watson, 2023).  
   
-  ## Related Categories
- Diet and exercise works hand-in-hand with [[holistic-treatment/index|Holistic Treatment]].
+## Related Categories
+ Diet and exercise works hand-in-hand with  
+ [[holistic-treatment/index|Holistic Treatment]].
 
 ![[diet&exercise-pcos.jpg]]
 (Dr. Jolene Brighten, 2024)  
 
-## Important Links
-* [[Benefits of Diet and Exercise for PCOS]]
-* [[Insulin Resistance Management]]
-* [[Support Healthy Weight]]
+
 
