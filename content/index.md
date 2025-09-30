@@ -9,7 +9,7 @@ date: October 3, 2025
 * [[my-symptoms/index|index]]
 * [[medical-treatment/index|index]]
 * [[holistic-treatment/index|index]]
-* [[Diet and Exercise|Diet and Exercise]]
+* [[diet-and-exercise/index|index]]
 
 
 
