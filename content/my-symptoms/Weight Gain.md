@@ -1,8 +1,7 @@
 ---
-title: Weight Gain
-Date:  October 3,2025
----  
-
+Title: Weight Gain
+Date: October 3, 2025
+---
 ## Losing Weight Felt Impossible
 
 Before I was officially diagnosed with polycystic  

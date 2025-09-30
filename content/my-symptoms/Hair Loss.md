@@ -1,7 +1,7 @@
 ---
-title: Hair Loss
-Date:  October 3,2025
----  
+Title: Hair Loss
+Date: October 3, 2025
+---
 ## Thinning Hair 
 
 Losing my hair has been a deeply challenging experience,  

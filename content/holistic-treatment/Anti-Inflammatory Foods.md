@@ -1,8 +1,7 @@
 ---
-title: Anti-Inflammatory Foods
-Date:  October 3,2025
----  
-
+Title: Anti-Inflammatory Foods
+Date: October 3, 2025
+---
 ## Focus on Good Nutrition
 
 Incorporate anti-inflammatory foods into your diet to help  

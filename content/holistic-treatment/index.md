@@ -2,7 +2,6 @@
 title: Holistic Treatment
 date: October 3, 2025
 ---
-
 ## Things to Consider
 
 Certain herbs and dietary supplements have shown promise  

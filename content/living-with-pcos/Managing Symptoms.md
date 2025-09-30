@@ -1,8 +1,7 @@
 ---
-title: Managing Symptoms
-Date:  October 3,2025
----  
-
+Title: Managing Symptoms
+Date: October 3, 2025
+---
 ## Irregular Cycles
 
 Women with polycystic ovary syndrome (PCOS) often face challenges such as infrequent  

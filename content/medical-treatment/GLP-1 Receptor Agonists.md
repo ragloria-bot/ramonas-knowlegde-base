@@ -1,8 +1,7 @@
 ---
-title: GLP- Receptor Agonists
-Date:  October 3,2025
----  
-
+Title: GLP-1 Receptor Agonists
+Date: October 3, 2025
+---
 ## Medicine Breakthrough
 
 Recent advancements in weight-loss medications, particularly  

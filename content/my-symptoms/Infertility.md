@@ -1,8 +1,7 @@
 ---
-title: Infertility
-Date:  October 3,2025
----  
-
+Title: Infertility
+Date: October 3, 2025
+---
 ## Hormone-Related Disorders
 
 I was fortunate to welcome my beautiful daughter into  

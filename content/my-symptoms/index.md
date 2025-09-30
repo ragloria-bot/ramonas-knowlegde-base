@@ -2,6 +2,8 @@
 title: My Symptoms
 date: October 3, 2025
 ---
+## My Symptoms  
+
 Here’s a detailed glimpse into my experience with polycystic  
 ovary syndrome (PCOS). Living with PCOS has been a journey of  
 ups and downs, filled with various symptoms and challenges.  

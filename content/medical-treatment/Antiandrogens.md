@@ -1,8 +1,7 @@
 ---
-title: Antiandrogens
-Date:  October 3,2025  
----  
-
+Title: Antiandrogens
+Date: October 3, 2025
+---
 ## Spironolactone
 
 Antiandrogen medications work by blocking the effects of  

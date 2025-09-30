@@ -1,8 +1,7 @@
 ---
-title: Exercise and Weight Management
-Date:  October 3,2025
----  
-
+Title: Exercise and Weight Management
+Date: October 3, 2025
+---
 ## Physical Activity is Key
 
 Regular physical activity plays a crucial role in managing  

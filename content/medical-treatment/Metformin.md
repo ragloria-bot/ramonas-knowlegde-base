@@ -1,8 +1,7 @@
 ---
-title: Metformin
-Date:  October 3,2025
----  
-
+Title: Metformin
+Date: October 3, 2025
+---
 ## Regulate Insulin Levels
 
 Metformin is frequently prescribed to individuals diagnosed with  

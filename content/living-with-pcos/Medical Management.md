@@ -1,8 +1,7 @@
 ---
-title: Medical Mangment
-Date:  October 3,2025
----  
-
+Title: Medical Management
+Date: October 3, 2025
+---
 ## Medications
 
 In addition to traditional birth control methods, certain medications used in the  

@@ -1,8 +1,7 @@
 ---
-title: Lifestyle Changes
-Date:  October 3,2025
----  
-
+Title: Lifestyle Changes
+Date: October 3, 2025
+---
 ## Healthy Diet
 
 To promote a healthier lifestyle, prioritize incorporating whole foods into your diet.  

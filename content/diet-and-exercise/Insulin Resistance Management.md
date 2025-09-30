@@ -1,8 +1,7 @@
 ---
-title: Insulin Resistence
-Date:  October 3,2025
----  
-
+Title: Insulin Resistance Management
+Date: October 3, 2025
+---
 ## Stabilizing Sugar Levels
 
 Polycystic ovary syndrome (PCOS) is a complex hormonal  

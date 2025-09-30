@@ -1,8 +1,7 @@
 ---
-title: My Life Now
-Date:  October 3,2025
----  
-
+Title: My Life Now
+Date: October 3, 2025
+---
 ## Glass Full Not Empty
 
 Reflecting on the past 20 years since my initial diagnosis,  

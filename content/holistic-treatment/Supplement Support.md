@@ -1,8 +1,7 @@
 ---
-title: Supplement Support
-Date:  October 3,2025
----  
-
+Title: Supplement Support
+Date: October 3, 2025
+---
 ## Herbal Supplements
 
 Certain herbs, dietary supplements, and [[Anti-Inflammatory Foods]]  

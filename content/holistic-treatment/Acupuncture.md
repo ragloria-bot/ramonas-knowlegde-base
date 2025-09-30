@@ -1,8 +1,7 @@
 ---
-title: Accupuncture
-Date:  October 3,2025
----  
-
+Title: Acupuncture
+Date: October 3, 2025
+---
 ## Chinese medicine and PCOS
 
 Acupuncture is a complementary therapy that can effectively support  
