@@ -1,3 +1,8 @@
+---
+title: Mental Health and Support
+Date:  October 3,2025
+---  
+
 ## Emotional Impact
 
 Polycystic Ovary Syndrome (PCOS) is a complex hormonal disorder that can trigger a  

@@ -1,3 +1,8 @@
+---
+title: Fertility Medications
+Date:  October 3,2025
+---  
+
 ## Planning for a Family
 
 For those trying to conceive, medications like clomiphene  

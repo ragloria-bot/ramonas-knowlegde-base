@@ -1,5 +1,6 @@
 ---
 title: My Journey with PCOS
+date: October 3, 2025
 ---
 
 ## Main Categories

@@ -1,5 +1,6 @@
 ---
 title: Works Cited
+date: October 3, 2025
 ---
 _Acupuncture for PCOS treatment, NYC: Advanced holistic center_.  
     Advanced Holistic Center: NYC Acupuncture & Chinese Medicine  

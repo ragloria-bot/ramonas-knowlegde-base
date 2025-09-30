@@ -1,5 +1,6 @@
 ---
 title: Medical Treatment
+date: October 3, 2025
 ---
 ## Things to Consider
 

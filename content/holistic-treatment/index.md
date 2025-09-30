@@ -1,6 +1,6 @@
 ---
 title: Holistic Treatment
-tags:
+date: October 3, 2025
 ---
 
 ## Things to Consider

@@ -1,3 +1,8 @@
+---
+title: Stress and Sleep Managment
+Date:  October 3,2025
+---    
+
 ## Practice Makes Perfect
 
 Chronic stress and inadequate sleep can significantly worsen  
