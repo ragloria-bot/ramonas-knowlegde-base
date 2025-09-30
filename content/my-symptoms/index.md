@@ -18,7 +18,8 @@ error, seeking the right treatments and support from
 healthcare professionals. Throughout this journey, I’ve  
 also found the importance of connecting with others who  
 share similar experiences, which has helped me feel less  
-alone in facing the challenges of PCOS.
+alone in facing the challenges of PCOS.  Learn more  [[about/index|About]] my  
+early stages with PCOS.
 ### Important Links
 
 * [[Weight Gain]]
