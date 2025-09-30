@@ -5,11 +5,11 @@ date: October 3, 2025
 
 ## Main Categories
 
-* [[living-with-pcos/index|index]]
-* [[my-symptoms/index|index]]
-* [[medical-treatment/index|index]]
-* [[holistic-treatment/index|index]]
-* [[diet-and-exercise/index|index]]
+* [[living-with-pcos/index|Living with PCOS]]
+* [[my-symptoms/index|My Symptoms]]
+* [[medical-treatment/index|Medical Treatment]]
+* [[holistic-treatment/index|Holistic Treatment]]
+* [[diet-and-exercise/index|Diet and Exercise]]
 
 
 
