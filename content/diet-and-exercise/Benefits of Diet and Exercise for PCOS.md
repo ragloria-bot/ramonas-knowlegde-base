@@ -2,6 +2,7 @@
 title: Benefits of Diet and Exercise for PCOS
 Date: October 3, 2025
 ---
+
 ## Small Steps in Your Health is a Benefit
 
 Diet and exercise play a crucial role in effectively managing  

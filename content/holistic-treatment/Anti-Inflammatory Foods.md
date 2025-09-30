@@ -1,5 +1,9 @@
-## Focus on Good Nutrition
+---
+title: Anti-Inflammatory Foods
+Date:  October 3,2025
+---  
 
+## Focus on Good Nutrition
 
 Incorporate anti-inflammatory foods into your diet to help  
 manage symptoms of PCOS, as this condition is often  

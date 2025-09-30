@@ -1,3 +1,8 @@
+---
+title: Support Healthy Weight
+Date:  October 3,2025
+---  
+
 ## PCOS Weight Loss is Possible
 
 A well-balanced diet that is high in fiber, lean proteins,  
