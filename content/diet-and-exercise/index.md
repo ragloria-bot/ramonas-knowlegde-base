@@ -1,11 +1,6 @@
 ---
 title: Diet and Exercise
 ---
-## Important Links
-* [[Benefits of Diet and Exercise for PCOS]]
-* [[Insulin Resistance Management]]
-* [[Support Healthy Weight]]
-
 ## Things to Consider  
 
 Adopting certain lifestyle changes can significantly  
@@ -59,6 +54,11 @@ their physical and emotional health (Watson, 2023).
 
 ![[diet&exercise-pcos.jpg]]
 (Dr. Jolene Brighten, 2024)  
+
+### Important Links
+* [[Benefits of Diet and Exercise for PCOS]]
+* [[Insulin Resistance Management]]
+* [[Support Healthy Weight]]
 
 
 

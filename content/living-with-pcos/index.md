@@ -1,15 +1,6 @@
 ---
 title: Living with PCOS
 ---
-
-### Important Links 
-
-- [[Lifestyle Changes]]
-- [[Long-Term Health Risks]]
-- [[Managing Symptoms]]
-- [[Medical Management]]
-- [[Mental Health and Support]]  
-
 ## Things to Consider
 
 Living with Polycystic Ovary Syndrome (PCOS) can be  
@@ -30,4 +21,11 @@ navigate their condition more successfully and
 enhance their overall health (2022).  
 
 ![[living-with-pcos.jpg]]
-(unknown source)
+(unknown source)  
+### Important Links 
+
+- [[Lifestyle Changes]]
+- [[Long-Term Health Risks]]
+- [[Managing Symptoms]]
+- [[Medical Management]]
+- [[Mental Health and Support]] 
