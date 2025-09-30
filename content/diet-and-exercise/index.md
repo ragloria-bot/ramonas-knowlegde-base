@@ -1,8 +1,7 @@
 ---
-Title: index
+title: Diet and Exercise
 Date: October 3, 2025
----  
-
+---
 ## Things to Consider  
 
 Adopting certain lifestyle changes can significantly  
