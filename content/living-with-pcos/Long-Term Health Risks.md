@@ -41,7 +41,7 @@ better understanding of both the physical and emotional aspects of
 living with PCOS.
 
 
-> "You are allowed to be both a masterpiece and a work in progress 
+> "You are allowed to be both a masterpiece and a work in progress  
 > simultaneously" — Sophia Bush. 
 
 
