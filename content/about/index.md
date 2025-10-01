@@ -1,8 +1,7 @@
 ---
-Title: About
+title: About
 Date: October 3, 2025
----  
-
+---
 ## My Beginnings with PCOS
 
 Before I received my diagnosis, I considered my experience with female health  
@@ -43,6 +42,7 @@ me in discovering practical tips, lifestyle changes, and community
 support that can truly transform your experience with PCOS.
 
 ![[pcos-begin.jpg]]
+(2023)
 
 
 
