@@ -53,10 +53,11 @@ living with PCOS.
 
 #### Endometrial Cancer
 
-If you experience irregular periods or have not had a period for an extended  
-time, it can increase the thickness of the uterine lining, raising the risk of  
-developing endometrial cancer. This thickening occurs because the lining  
-does not shed regularly. Fortunately, there are various treatments available  
-that can help regulate your menstrual cycles, reducing the risk of complications  
-and promoting overall reproductive health. It's important to consult with a  
-healthcare provider to explore these options.
+If you experience irregular periods or have not had a period for an  
+extended time, it can increase the thickness of the uterine lining,  
+raising the risk of developing endometrial cancer. This thickening  
+occurs because the lining does not shed regularly. Fortunately, there  
+are various treatments available that can help regulate your menstrual  
+cycles, reducing the risk of complications and promoting overall  
+reproductive health. It's important to consult with a healthcare  
+provider to explore these options.
