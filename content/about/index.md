@@ -4,18 +4,19 @@ Date: October 3, 2025
 ---
 ## My Beginnings with PCOS
 
-Before I received my diagnosis, I considered my experience with female health  
-to be quite typical. I had regular check-ups, followed standard health  
-practices, and never thought much about my reproductive health beyond  
-the usual concerns. I felt a sense of normalcy, believing that everything  
-was functioning as it should. However, that perspective changed  
-dramatically once I faced the diagnosis, which forced me to reevaluate  
-my understanding of my health and wellbeing. My journey with PCOS began  
-about six months after I gave birth to my daughter. I noticed a rapid  
-weight gain that made me wonder if I might be pregnant again. After a  
-wellness check-up and a pregnancy test, I was relieved to find out that  
-I wasn't pregnant, but I was still confused about why my weight was  
-increasing despite my commitment to diet and exercise. 
+Before I received my diagnosis, I considered my experience with  
+female health to be quite typical. I had regular check-ups, followed  
+standard health practices, and never thought much about my  
+reproductive health beyond the usual concerns. I felt a sense of  
+normalcy, believing that everything was functioning as it should.  
+However, that perspective changed dramatically once I faced the  
+diagnosis, which forced me to reevaluate my understanding of my  
+health and wellbeing. My journey with PCOS began about six months  
+after I gave birth to my daughter. I noticed a rapid weight gain that  
+made me wonder if I might be pregnant again. After a wellness check-up  
+and a pregnancy test, I was relieved to find out that I wasn't pregnant,  
+but I was still confused about why my weight was increasing despite  
+my commitment to diet and exercise.  
 
 Over the next ten years, I saw numerous doctors, but each one simply  
 advised me to monitor my eating and exercise more. This was incredibly  
