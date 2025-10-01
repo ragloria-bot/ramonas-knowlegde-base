@@ -1,7 +1,6 @@
 ---
 Title: About
 Date: October 3, 2025
-aliases: About
 ---
 ## My Beginnings with PCOS
 
