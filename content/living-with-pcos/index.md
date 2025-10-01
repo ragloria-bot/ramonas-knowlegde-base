@@ -14,7 +14,7 @@ diet rich in whole foods, staying physically active,
 and managing stress through techniques like mindfulness  
 and meditation can significantly improve overall  
 quality of life. Additionally, seeking support from  
-healthcare professionals ([[medical-treatment/index|index]]) and  
+healthcare professionals ([[medical-treatment/index|Medical Treatment]]) and  
 connecting with others who share similar experiences  
 can foster a sense of community and empowerment.  
 By taking proactive steps, individuals with PCOS can  
