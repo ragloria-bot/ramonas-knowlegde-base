@@ -39,7 +39,8 @@ articles and my personal story to expert advice on managing symptoms
 and improving overall well-being, my goal is to provide you with the  
 resources you need to navigate this condition with confidence. Join  
 me in discovering practical tips, lifestyle changes, and community  
-support that can truly transform your experience with PCOS.
+support that can truly transform your experience with PCOS.  
+Follow more about my journey and [[my-symptoms/index|My Symptoms]].  
 
 ![[pcos-begin.jpg]]
 (2023)
