@@ -30,7 +30,8 @@ you to join me on this journey. Together, we can explore practical
 strategies and insights that may help make living with PCOS a little  
 easier and less overwhelming. Let’s delve into lifestyle changes,  
 dietary adjustments, and emotional support that can empower us to  
-manage this condition more effectively.
+manage this condition more effectively. Learn more about my journey and  
+[[my-symptoms/index|My Symptoms]] with PCOS.
 
 
 ### Disclaimer: 
