@@ -8,6 +8,9 @@ _Acupuncture for PCOS treatment, NYC: Advanced holistic center_.
     conditions/pcos/#:~:text=Can%20acupuncture%20and%20Chinese%20me  
     dicine,can%20aid%20in%20stress%20reduction.
 
+_Break the PCOS and thyroid link with natural ayurveda_. Medhya Herbals. (2023,  
+	April 1). https://medhyaherbals.com/pcos-thyroid-hypothyroidism/
+
 _Hormonal treatment for PCOS: Guide to oral contraceptives  
     and progesterone therapy_. Hormonal Treatment for PCOS-  
     Doctor’s Guide | Dr. Jay Mehta. (2025, August 22).  
