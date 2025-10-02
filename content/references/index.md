@@ -2,8 +2,8 @@
 title: References  
 Date:  October 3,2025
 ---
-##  Works Cited 
-All images, medical and holistic information is located at the [[Works Cited]] page.  
+##  References
+All images, medical and holistic information is located at the [[References]] page.  
 
 ### Disclaimer: 
 
