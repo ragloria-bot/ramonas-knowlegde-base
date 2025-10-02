@@ -60,6 +60,7 @@ their physical and emotional health (Watson, 2023).
 * [[Benefits of Diet and Exercise for PCOS]]
 * [[Insulin Resistance Management]]
 * [[Support Healthy Weight]]
+* [[index.md|Home]]
 
 
 

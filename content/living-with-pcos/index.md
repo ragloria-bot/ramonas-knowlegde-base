@@ -30,3 +30,4 @@ enhance their overall health (2022).
 - [[Managing Symptoms]]
 - [[Medical Management]]
 - [[Mental Health and Support]] 
+- [[index.md|Home]]
