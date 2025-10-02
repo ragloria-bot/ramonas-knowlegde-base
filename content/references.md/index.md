@@ -111,3 +111,13 @@ Women’s Health of Central Virginia. (2024, November 19).
 Young, J. (2024, November 15). _PCOS and insulin resistance:  
     What’s the link?_ Numan. https://www.numan.com/weight  
     -loss/tips/pcos-insulin-resistance
+
+
+## Main Categories
+
+*  [[index.md|Home]]
+* [[living-with-pcos/index|Living with PCOS]]
+* [[my-symptoms/index|My Symptoms]]
+* [[medical-treatment/index|Medical Treatment]]
+* [[holistic-treatment/index|Holistic Treatment]]
+* [[diet-and-exercise/index|Diet and Exercise]]
