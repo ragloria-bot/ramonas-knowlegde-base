@@ -23,3 +23,4 @@ These benefits can contribute to improved reproductive
 health and overall well-being (Migala, 2022).
 
 ![[metformin.jpg]]
+(Migala, 2022)

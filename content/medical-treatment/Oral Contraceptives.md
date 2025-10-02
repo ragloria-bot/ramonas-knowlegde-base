@@ -20,3 +20,4 @@ physical well-being, but also confidence and quality of
 life for those affected by hormonal imbalances (Migala, 2022).
 
 ![[Birth Control Pills.jpg]]
+(Migala, 2022)

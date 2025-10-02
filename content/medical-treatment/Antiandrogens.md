@@ -18,3 +18,4 @@ polycystic ovary syndrome (PCOS), where such skin
 issues are common (Mayo Foundation, 2022).
 
 ![[Antiandrogens 1.jpg]]
+(Mayo Foundation, 2022)

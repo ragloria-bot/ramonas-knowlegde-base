@@ -18,3 +18,4 @@ overall hormonal balance and reproductive health in women
 affected by PCOS (Young, 2024).
 
 ![[GLP-1 Receptor Agonists.jpg]]
+(Young, 2024)
