@@ -47,7 +47,10 @@ HealthPartners. (2025, July 9). _Learn about your PCOS
     HealthPartners Blog. https://www.healthpartners.com/  
     blog/treatment-for-pcos/#:~:text=Clomiphene.%20Clomi  
     phene%20is%20an%20ovulation%20stimulant%20that,incr  
-    easing%20your%20chances%20of%20conception%20each%20month.
+    easing%20your%20chances%20of%20conception%20each%20month.  
+    
+Indiatimes. (2019, July 19). _To combat water crisis, only half-filled glasses of   
+	water to be served at up Govt Offices_. Indiatimes. https://www.indiatimes.com/news/india/to-combat-water-crisis-only-half-filled-glasses-of-water-to-be-served-at-up-govt-offices-371623.html
 
 Kristina Liu, M., & Janelle Nassim, M. (2021, April 29).  
     _Polycystic ovarian syndrome and the skin_. Harvard  
