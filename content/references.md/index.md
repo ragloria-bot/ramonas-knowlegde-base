@@ -10,8 +10,18 @@ _Acupuncture for PCOS treatment, NYC: Advanced holistic center_.
     dicine,can%20aid%20in%20stress%20reduction.
 
 _Break the PCOS and thyroid link with natural ayurveda_. Medhya Herbals. (2023,  
-	April 1). https://medhyaherbals.com/pcos-thyroid-hypothyroidism/
+	April 1). https://medhyaherbals.com/pcos-thyroid-hypothyroidism/  
 
+Campbell, B. (2023, February 26). _The histamine-PCOS connection_. Dr Becky  
+	Campbell. https://drbeckycampbell.com/the-histamine-pcos-connection/  
+
+Content.team. (2025, February 10). _Preventing skin cancer of the scalp - San  
+	Antonio, TX_. Stone Oak Dermatology. https://www.stoneoakdermatology.  
+	com/blog/preventing-skin-cancer-of-the-scalp/  
+	
+Dr. Liji Thomas, M. (2021, April 15). _What is infertility?_. News. https://www.news  
+	-medical.net/health/What-is-Infertility.aspx  
+	
 _Hormonal treatment for PCOS: Guide to oral contraceptives  
     and progesterone therapy_. Hormonal Treatment for PCOS-  
     Doctor’s Guide | Dr. Jay Mehta. (2025, August 22).  

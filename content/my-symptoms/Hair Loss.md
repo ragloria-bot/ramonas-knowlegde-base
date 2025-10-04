@@ -26,4 +26,4 @@ and feeling frustrated. [[My Life Now]] I try not focus on
 symptom as it does not define me or take away me identity.  
 
 ![[hairloss.jpg]]
-(Perry, 2022)
+(Content.team, 2025)

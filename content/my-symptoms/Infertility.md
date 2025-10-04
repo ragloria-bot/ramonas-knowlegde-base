@@ -33,4 +33,4 @@ that adds another layer of complexity to my feelings
 about motherhood and the limitations imposed by PCOS.
 
 ![[Infertility.jpg]]
-(Vergis, 2024)
+(Dr. Liji Thomas, 2021)

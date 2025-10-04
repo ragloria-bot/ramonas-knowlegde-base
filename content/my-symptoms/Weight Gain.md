@@ -51,4 +51,4 @@ improved my physical health but has also renewed my faith
 in my ability to take control of [[My Life Now]] and well-being.
 
 ![[weight-gain.jpg]]
-(Simon, 2025)
+(Campbell, 2023)
