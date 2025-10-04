@@ -8,20 +8,21 @@ Date: October 3, 2025
     Center. (2025, January 27). https://advancedholisticcenter.com/  
     conditions/pcos/#:~:text=Can%20acupuncture%20and%20Chinese%20me  
     dicine,can%20aid%20in%20stress%20reduction.  
-    
+
 - Aster DM Healthcare. (2022, December 15). _The best types  
     of exercise to fight PCOS_. Exercise to Reduce PCOS Belly  
     Fat | Aster DM Healthcare. https://www.asterdmhealthcare.  
     com/health-library/the-best-types-of-exercise-to-fight-pcos  
-    
+
+
 - Bernabe, M. (2025, May 4). _Understanding the emotional toll  
     of PCOS-and how to Cope_. Social Synergies Support.  
     https://www.socialsynergiessupport.org/blog-page/blog-  
-    post-title-two-fzpka
+    post-title-two-fzpka  
 
 - _Break the PCOS and thyroid link with natural ayurveda_. Medhya Herbals. (2023,  
 	April 1). https://medhyaherbals.com/pcos-thyroid-hypothyroidism/  
-
+  
 - Campbell, B. (2023, February 26). _The histamine-PCOS connection_. Dr Becky  
 	Campbell. https://drbeckycampbell.com/the-histamine-pcos-connection/  
 
@@ -43,8 +44,8 @@ Date: October 3, 2025
 
 - Dr. Jolene Brighten. (2024, October 3). _How to lose  
     weight with PCOS_.https://drbrighten.com/how-to  
-    lose-weight-with-pcos/
-	
+    lose-weight-with-pcos/  
+
 - Dr. Liji Thomas, M. (2021, April 15). _What is infertility?_. News.  
     https://www.news-medical.net/health/What-is-Infertility.aspx  
 
