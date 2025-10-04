@@ -96,7 +96,8 @@ Mayo Foundation for Medical Education and Research.
 Migala, J. (2022, October 22). _How is polycystic  
     ovary syndrome (PCOS) treated?_. EverydayHealth.com.  
     https://www.everydayhealth.com/pcos/treatment-  
-    therapy-options/
+    therapy-options/  
+    
 _PCOS (polycystic ovary syndrome): Symptoms & treatment_.   
 	Cleveland Clinic. (2025, September 15). https://my.  
     clevela ndclinic.org/health/diseases/8316-polycystic  
