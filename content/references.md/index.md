@@ -7,7 +7,12 @@ _Acupuncture for PCOS treatment, NYC: Advanced holistic center_.
     Advanced Holistic Center: NYC Acupuncture & Chinese Medicine  
     Center. (2025, January 27). https://advancedholisticcenter.com/  
     conditions/pcos/#:~:text=Can%20acupuncture%20and%20Chinese%20me  
-    dicine,can%20aid%20in%20stress%20reduction.
+    dicine,can%20aid%20in%20stress%20reduction.  
+    
+Aster DM Healthcare. (2022, December 15). _The best types  
+    of exercise to fight PCOS_. Exercise to Reduce PCOS Belly  
+    Fat | Aster DM Healthcare. https://www.asterdmhealthcare.  
+    com/health-library/the-best-types-of-exercise-to-fight-pcos
 
 _Break the PCOS and thyroid link with natural ayurveda_. Medhya Herbals. (2023,  
 	April 1). https://medhyaherbals.com/pcos-thyroid-hypothyroidism/  
@@ -25,13 +30,8 @@ Dr. Liji Thomas, M. (2021, April 15). _What is infertility?_. News.
 _Hormonal treatment for PCOS: Guide to oral contraceptives  
     and progesterone therapy_. Hormonal Treatment for PCOS-  
     Doctor’s Guide | Dr. Jay Mehta. (2025, August 22).  
-    https://www.shreeivfclinic.com/pcos-hormonal-medications/
-
-Aster DM Healthcare. (2022, December 15). _The best types  
-    of exercise to fight PCOS_. Exercise to Reduce PCOS Belly  
-    Fat | Aster DM Healthcare. https://www.asterdmhealthcare.  
-    com/health-library/the-best-types-of-exercise-to-fight-pcos
-
+    https://www.shreeivfclinic.com/pcos-hormonal-medications/  
+    
 Bernabe, M. (2025, May 4). _Understanding the emotional toll  
     of PCOS-and how to Cope_. Social Synergies Support.  
     https://www.socialsynergiessupport.org/blog-page/blog-  
