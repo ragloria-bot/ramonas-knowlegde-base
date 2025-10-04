@@ -128,8 +128,8 @@ Date: October 3, 2025
     %20supported%20in%20managing%20PCOS.
 
 - Young, J. (2024, November 15). _PCOS and insulin resistance:  
-        What’s the link?_ Numan. https://www.numan.com/weight  
-        -loss/tips/pcos-insulin-resistance
+    What’s the link?_ Numan. https://www.numan.com/weight  
+    -loss/tips/pcos-insulin-resistance
 
 
 ## Main Categories
