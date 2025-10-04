@@ -19,8 +19,8 @@ Content.team. (2025, February 10). _Preventing skin cancer of the scalp - San
 	Antonio, TX_. Stone Oak Dermatology. https://www.stoneoakdermatology.  
 	com/blog/preventing-skin-cancer-of-the-scalp/  
 	
-Dr. Liji Thomas, M. (2021, April 15). _What is infertility?_. News. https://www.news  
-	-medical.net/health/What-is-Infertility.aspx  
+Dr. Liji Thomas, M. (2021, April 15). _What is infertility?_. News.  
+    https://www.news-medical.net/health/What-is-Infertility.aspx  
 	
 _Hormonal treatment for PCOS: Guide to oral contraceptives  
     and progesterone therapy_. Hormonal Treatment for PCOS-  
@@ -49,8 +49,9 @@ Cieciwa, J. (2014b, December 31). How to have a healthy
     com/archive/ca/entry/how-to-have-a-healthy-day-in-  
     five-steps_b_6075606  
 
-Dr. Jolene Brighten. (2024, October 3). _How to lose weight with PCOS_.  
-	https://drbrighten.com/how-to-lose-weight-with-pcos/
+Dr. Jolene Brighten. (2024, October 3). _How to lose  
+    weight with PCOS_.https://drbrighten.com/how-to  
+    lose-weight-with-pcos/
 
 HealthPartners. (2025, July 9). _Learn about your PCOS  
     treatment options: From self-care to medication_.  
@@ -59,8 +60,11 @@ HealthPartners. (2025, July 9). _Learn about your PCOS
     phene%20is%20an%20ovulation%20stimulant%20that,incr  
     easing%20your%20chances%20of%20conception%20each%20month.  
     
-Indiatimes. (2019, July 19). _To combat water crisis, only half-filled glasses of   
-	water to be served at up Govt Offices_. Indiatimes. https://www.indiatimes.com/news/india/to-combat-water-crisis-only-half-filled-glasses-of-water-to-be-served-at-up-govt-offices-371623.html
+Indiatimes. (2019, July 19). _To combat water crisis, only  
+    half-filled glasses of water to be served at up Govt Offices_.  
+    Indiatimes. https://www.indiatimes.com/news/india/to-combat-  
+    water-crisis-only-half-filled-glasses-of-water-to-be-served-  
+    at-up-govt-offices-371623.html
 
 Kristina Liu, M., & Janelle Nassim, M. (2021, April 29).  
     _Polycystic ovarian syndrome and the skin_. Harvard  
@@ -94,8 +98,9 @@ Migala, J. (2022, October 22). _How is polycystic
     https://www.everydayhealth.com/pcos/treatment-  
     therapy-options/
 _PCOS (polycystic ovary syndrome): Symptoms & treatment_.   
-	Cleveland Clinic. (2025, September 15). https://my.clevela  
-	ndclinic.org/health/diseases/8316-polycystic-ovary-syndrome-pcos
+	Cleveland Clinic. (2025, September 15). https://my.  
+    clevela ndclinic.org/health/diseases/8316-polycystic  
+    -ovary-syndrome-pcos
 
 Perry, G. N. (Ed.). (2022, January 24). _Polycystic  
     ovary syndrome_. https://www.endocrine.org. https://  
