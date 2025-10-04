@@ -4,10 +4,10 @@ Date: October 3, 2025
 ---
 
 _Acupuncture for PCOS treatment, NYC: Advanced holistic center_.  
-    Advanced Holistic Center: NYC Acupuncture & Chinese Medicine  
-    Center. (2025, January 27). https://advancedholisticcenter.com/  
-    conditions/pcos/#:~:text=Can%20acupuncture%20and%20Chinese%20me  
-    dicine,can%20aid%20in%20stress%20reduction.  
+*Tabspace* Advanced Holistic Center: NYC Acupuncture & Chinese Medicine  
+*Tabspace* Center. (2025, January 27). https://advancedholisticcenter.com/  
+*Tabspace* conditions/pcos/#:~:text=Can%20acupuncture%20and%20Chinese%20me  
+*Tabspace* dicine,can%20aid%20in%20stress%20reduction.  
     
 Aster DM Healthcare. (2022, December 15). _The best types  
     of exercise to fight PCOS_. Exercise to Reduce PCOS Belly  
